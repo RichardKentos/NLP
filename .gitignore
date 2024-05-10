@@ -1,0 +1,6 @@
+
+mlruns/
+
+results/
+
+finetuned_bert/

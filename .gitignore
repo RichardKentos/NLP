@@ -4,3 +4,11 @@ mlruns/
 results/
 
 finetuned_bert/
+
+final-model/
+
+my_awesome_wnut_model/
+
+distil_bert/
+
+hanka_bert/

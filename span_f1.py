@@ -20,7 +20,7 @@ def toSpans(tags):
         if tags[beg][0] == 'B':
             end = beg
             for end in range(beg+1, len(tags)):
-                if tags[beg][0] != 'I':
+                if tags[end][0] != 'I':
                     break
             spans.add(str(beg) + '-' + str(end) + ':' + tags[beg][2:])
     return spans

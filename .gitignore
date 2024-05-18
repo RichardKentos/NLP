@@ -3,11 +3,9 @@ mlruns/
 
 results/
 
-finetuned_bert/
+wnut_model/
 
-final-model/
-
-my_awesome_wnut_model/
+testing_bert/
 
 distil_bert/
 

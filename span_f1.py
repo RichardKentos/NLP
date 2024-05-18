@@ -33,6 +33,8 @@ def getInstanceScores(predPath, goldPath):
     fp = 0
     fn = 0
     for goldEnt, predEnt in zip(goldEnts, predEnts):
+        sentenceLength = len(goldEnt)
+        predEnt = predEnt[:sentenceLength]
         goldSpans = toSpans(goldEnt)
         predSpans = toSpans(predEnt)
         overlap = len(goldSpans.intersection(predSpans))

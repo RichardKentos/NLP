@@ -49,16 +49,29 @@
 7	Argentina	B-LOC
 
 0	September	O
-1	18	O
+1	24	O
 2	,	O
 3	1888	O
 4	?	O
 
 0	September	O
-1	20	O
+1	22	O
 2	,	O
-3	1651	O
+3	1888	O
 4	?	O
+
+0	It	O
+1	was	O
+2	incorporated	O
+3	as	O
+4	a	O
+5	city	O
+6	on	O
+7	May	O
+8	20	O
+9	,	O
+10	1955	O
+11	.	O
 
 0	It	O
 1	was	O
@@ -70,28 +83,15 @@
 7	May	O
 8	26	O
 9	,	O
-10	2146	O
-11	.	O
-
-0	It	O
-1	was	O
-2	incorporated	O
-3	as	O
-4	a	O
-5	city	O
-6	on	O
-7	May	O
-8	31	O
-9	,	O
-10	1955	O
+10	2013	O
 11	.	O
 
 0	Miramar	B-LOC
 1	was	O
 2	founded	O
 3	September	O
-4	20	O
-5	1716	O
+4	25	O
+5	1888	O
 6	.	O
 
 0	Miramar	B-LOC
@@ -99,7 +99,7 @@
 2	founded	O
 3	September	O
 4	20	O
-5	1688	O
+5	2028	O
 6	.	O
 
 0	Good	O
@@ -116,7 +116,7 @@
 11	german	O
 12	citizen	O
 13	,	O
-14	18	O
+14	20	O
 15	years	O
 16	of	O
 17	age	O
@@ -145,7 +145,7 @@
 11	german	O
 12	citizen	O
 13	,	O
-14	26	O
+14	25	O
 15	years	O
 16	of	O
 17	age	O
@@ -160,37 +160,37 @@
 26	foreigners	O
 27	?	O
 
-0	5158	O
+0	4695	O
 1	-	O
 2	NTKB	O
 
-0	6462	O
+0	5384	O
 1	-	O
 2	NTKB	O
 
-0	5668	O
+0	5643	O
 1	-	O
 2	NT	O
 
-0	4721	O
+0	4500	O
 1	-	O
 2	NT	O
 
 0	i	O
 1	m	O
-2	12	O
+2	14	O
 3	btw	O
 
 0	i	O
 1	m	O
-2	19	O
+2	11	O
 3	btw	O
 
 0	What	O
 1	are	O
 2	some	O
 3	GOOD	O
-4	20	O
+4	16	O
 5	+	O
 6	clubs	O
 7	in	O
@@ -203,7 +203,7 @@
 1	are	O
 2	some	O
 3	GOOD	O
-4	15	O
+4	21	O
 5	+	O
 6	clubs	O
 7	in	O
@@ -215,7 +215,7 @@
 0	when	O
 1	you	O
 2	turn	O
-3	18	O
+3	17	O
 4	you	O
 5	can	O
 6	party	O
@@ -227,7 +227,7 @@
 0	when	O
 1	you	O
 2	turn	O
-3	22	O
+3	16	O
 4	you	O
 5	can	O
 6	party	O
@@ -261,7 +261,7 @@
 4	the	O
 5	internet	O
 6	for	O
-7	2	O
+7	4	O
 8	hours	O
 9	but	O
 10	so	O
@@ -274,7 +274,7 @@
 
 0	I	O
 1	have	O
-2	26	O
+2	23	O
 3	hrs	O
 4	in	O
 5	San	B-LOC
@@ -295,7 +295,7 @@
 
 0	I	O
 1	have	O
-2	21	O
+2	25	O
 3	hrs	O
 4	in	O
 5	San	B-LOC
@@ -336,7 +336,7 @@
 19	orchestra	B-LOC
 20	hall	I-LOC
 21	(	O
-22	212	O
+22	209	O
 23	South	O
 24	Michigan	O
 25	Ave	O
@@ -365,7 +365,7 @@
 19	orchestra	B-LOC
 20	hall	I-LOC
 21	(	O
-22	204	O
+22	263	O
 23	South	O
 24	Michigan	O
 25	Ave	O
@@ -417,24 +417,6 @@
 19	in	O
 20	Fiji	B-LOC
 21	.	O
-
-0	2	O
-1	)	O
-2	also	O
-3	want	O
-4	an	O
-5	island	O
-6	where	O
-7	I	O
-8	can	O
-9	do	O
-10	fun	O
-11	activities	O
-12	,	O
-13	rainforest	O
-14	is	O
-15	a	O
-16	must	O
 
 0	4	O
 1	)	O
@@ -454,6 +436,24 @@
 15	a	O
 16	must	O
 
+0	2	O
+1	)	O
+2	also	O
+3	want	O
+4	an	O
+5	island	O
+6	where	O
+7	I	O
+8	can	O
+9	do	O
+10	fun	O
+11	activities	O
+12	,	O
+13	rainforest	O
+14	is	O
+15	a	O
+16	must	O
+
 0	How	O
 1	to	O
 2	prepare	O
@@ -466,7 +466,7 @@
 9	statue	O
 10	of	O
 11	size	O
-12	327	O
+12	402	O
 13	mm	O
 14	in	O
 15	height	O
@@ -484,7 +484,7 @@
 9	statue	O
 10	of	O
 11	size	O
-12	390	O
+12	388	O
 13	mm	O
 14	in	O
 15	height	O
@@ -521,10 +521,10 @@
 2	3,40	O
 3	Euros	O
 4	,	O
-5	3	O
+5	6	O
 6	Euros	O
 7	or	O
-8	7,3	O
+8	7,6	O
 9	Euros	O
 10	(	O
 11	1	O
@@ -547,11 +547,11 @@
 8	7,5	O
 9	Euros	O
 10	(	O
-11	1	O
+11	2	O
 12	)	O
 13	for	O
 14	a	O
-15	85	O
+15	72	O
 16	heures	O
 17	lenght	O
 18	.	O
@@ -562,12 +562,12 @@
 3	compact	O
 4	,	O
 5	ISO	O
-6	6572	O
+6	6400	O
 7	capability	O
 8	(	O
 9	SX40	O
 10	only	O
-11	3200	O
+11	3223	O
 12	)	O
 13	,	O
 14	faster	O
@@ -594,7 +594,7 @@
 8	(	O
 9	SX40	O
 10	only	O
-11	3125	O
+11	3253	O
 12	)	O
 13	,	O
 14	faster	O
@@ -613,7 +613,7 @@
 0	Both	O
 1	have	O
 2	full	O
-3	1212	O
+3	1137	O
 4	video	O
 5	with	O
 6	stereo	O
@@ -629,7 +629,7 @@
 0	Both	O
 1	have	O
 2	full	O
-3	1157	O
+3	1205	O
 4	video	O
 5	with	O
 6	stereo	O
@@ -653,7 +653,7 @@
 8	the	O
 9	new	O
 10	digic	O
-11	3	O
+11	6	O
 12	processor	O
 13	.	O
 
@@ -678,9 +678,9 @@
 3	get	O
 4	wifi	O
 5	anywhere	O
-6	28	O
+6	24	O
 7	/	O
-8	7	O
+8	5	O
 9	on	O
 10	your	O
 11	apple	O
@@ -695,14 +695,14 @@
 3	get	O
 4	wifi	O
 5	anywhere	O
-6	24	O
+6	27	O
 7	/	O
 8	7	O
 9	on	O
 10	your	O
 11	apple	O
 12	ipod	O
-13	10	O
+13	8	O
 14	gb	O
 15	?	O
 
@@ -791,23 +791,6 @@
 39	it	O
 40	with	O
 41	you	O
-
-0	2	O
-1	TO	O
-2	4	O
-3	DAYS	O
-4	if	O
-5	you	O
-6	are	O
-7	lucky	O
-8	on	O
-9	average	O
-10	it	O
-11	takes	O
-12	about	O
-13	6	O
-14	days	O
-15	.	O
 
 0	3	O
 1	TO	O
@@ -826,10 +809,27 @@
 14	days	O
 15	.	O
 
+0	3	O
+1	TO	O
+2	4	O
+3	DAYS	O
+4	if	O
+5	you	O
+6	are	O
+7	lucky	O
+8	on	O
+9	average	O
+10	it	O
+11	takes	O
+12	about	O
+13	5	O
+14	days	O
+15	.	O
+
 0	Out	O
 1	of	O
 2	the	O
-3	650	O
+3	646	O
 4	k	O
 5	est	O
 6	stolen	O
@@ -840,7 +840,7 @@
 11	the	O
 12	Nazis	O
 13	...	O
-14	67	O
+14	70	O
 15	k	O
 16	still	O
 17	remain	O
@@ -880,7 +880,7 @@
 11	the	O
 12	Nazis	O
 13	...	O
-14	62	O
+14	73	O
 15	k	O
 16	still	O
 17	remain	O
@@ -914,7 +914,7 @@
 5	between	O
 6	Sector	O
 7	-	O
-8	39	O
+8	43	O
 9	crossing	O
 10	in	O
 11	Noida	B-LOC
@@ -938,7 +938,7 @@
 5	between	O
 6	Sector	O
 7	-	O
-8	36	O
+8	43	O
 9	crossing	O
 10	in	O
 11	Noida	B-LOC
@@ -967,7 +967,7 @@
 10	between	O
 11	Sector	O
 12	-	O
-13	43	O
+13	45	O
 14	crossing	O
 15	and	O
 16	Pari	B-LOC
@@ -987,7 +987,7 @@
 10	between	O
 11	Sector	O
 12	-	O
-13	33	O
+13	35	O
 14	crossing	O
 15	and	O
 16	Pari	B-LOC
@@ -1005,7 +1005,7 @@
 8	,	O
 9	Sector	O
 10	-	O
-11	29	O
+11	36	O
 12	,	O
 13	Taj	O
 14	Express	O
@@ -1027,7 +1027,7 @@
 8	,	O
 9	Sector	O
 10	-	O
-11	35	O
+11	34	O
 12	,	O
 13	Taj	O
 14	Express	O
@@ -1083,7 +1083,7 @@
 10	in	O
 11	my	O
 12	house	O
-13	2	O
+13	4	O
 14	months	O
 15	later	O
 16	I	O
@@ -1121,7 +1121,7 @@
 16	and	O
 17	have	O
 18	$	O
-19	222	O
+19	237	O
 20	on	O
 21	hand	O
 22	have	O
@@ -1151,7 +1151,7 @@
 16	and	O
 17	have	O
 18	$	O
-19	241	O
+19	175	O
 20	on	O
 21	hand	O
 22	have	O
@@ -1161,22 +1161,22 @@
 26	in	O
 27	case	O
 28	btw	O
-
-0	No	O
-1	under	O
-2	15's	O
-3	.	O
 
 0	No	O
 1	under	O
 2	10's	O
 3	.	O
 
+0	No	O
+1	under	O
+2	13's	O
+3	.	O
+
 0	People	O
 1	aged	O
-2	13	O
+2	16	O
 3	-	O
-4	20	O
+4	17	O
 5	may	O
 6	be	O
 7	allowed	O
@@ -1199,9 +1199,9 @@
 
 0	People	O
 1	aged	O
-2	16	O
+2	13	O
 3	-	O
-4	17	O
+4	18	O
 5	may	O
 6	be	O
 7	allowed	O
@@ -1339,7 +1339,7 @@
 6	in	O
 7	the	O
 8	$	O
-9	2,	O
+9	4,	O
 10	to	O
 11	$	O
 12	5,000	O
@@ -1368,7 +1368,7 @@
 3	the	O
 4	promotional	O
 5	on	O
-6	10405	O
+6	10978	O
 7	Heritage	O
 8	Office	O
 9	Building	O
@@ -1385,7 +1385,7 @@
 3	the	O
 4	promotional	O
 5	on	O
-6	9221	O
+6	10669	O
 7	Heritage	O
 8	Office	O
 9	Building	O
@@ -1443,7 +1443,7 @@
 8	's	O
 9	United	B-ORG
 10	Way	I-ORG
-11	1845	O
+11	2109	O
 12	Campaign	O
 13	site	O
 14	.	O
@@ -1459,7 +1459,7 @@
 8	's	O
 9	United	B-ORG
 10	Way	I-ORG
-11	2089	O
+11	2181	O
 12	Campaign	O
 13	site	O
 14	.	O
@@ -1481,19 +1481,19 @@
 14	Joan	B-PER
 15	Woodson	I-PER
 16	(	O
-17	3-4406	O
+17	4-5213	O
 18	)	O
 19	,	O
 20	Bert	B-PER
 21	Frazier	I-PER
 22	(	O
-23	3-5076	O
+23	4-5076	O
 24	)	O
 25	or	O
 26	Kathy	B-PER
 27	Mayfield	I-PER
 28	(	O
-29	3-3264	O
+29	4-3264	O
 30	)	O
 31	.	O
 
@@ -1533,7 +1533,7 @@
 0	Game	O
 1	tonight	O
 2	at	O
-3	9	O
+3	5	O
 4	,	O
 5	it	O
 6	's	O
@@ -1547,7 +1547,7 @@
 0	Game	O
 1	tonight	O
 2	at	O
-3	5	O
+3	9	O
 4	,	O
 5	it	O
 6	's	O
@@ -1570,7 +1570,7 @@
 9	is	O
 10	going	O
 11	to	O
-12	92	O
+12	96	O
 13	by	O
 14	year	O
 15	end	O
@@ -1588,7 +1588,7 @@
 9	is	O
 10	going	O
 11	to	O
-12	94	O
+12	101	O
 13	by	O
 14	year	O
 15	end	O
@@ -1622,7 +1622,7 @@
 25	collect	O
 26	at	O
 27	+1	O
-28	192-848-8400	O
+28	212-709-8400	O
 29	)	O
 30	and	O
 31	immediately	O
@@ -1663,7 +1663,7 @@
 25	collect	O
 26	at	O
 27	+1	O
-28	212-685-8400	O
+28	212-803-8400	O
 29	)	O
 30	and	O
 31	immediately	O
@@ -1678,12 +1678,12 @@
 
 0	Lexus	O
 1	IS	O
-2	260	O
+2	241	O
 3	.	O
 
 0	Lexus	O
 1	IS	O
-2	339	O
+2	294	O
 3	.	O
 
 0	Not	O
@@ -1697,7 +1697,7 @@
 8	17	O
 9	"	O
 10	or	O
-11	17	O
+11	14	O
 12	"	O
 13	wheels	O
 14	for	O
@@ -1713,7 +1713,7 @@
 5	going	O
 6	to	O
 7	buy	O
-8	15	O
+8	16	O
 9	"	O
 10	or	O
 11	16	O
@@ -1739,7 +1739,7 @@
 12	-	O
 13	30	O
 14	June	O
-15	2235	O
+15	1695	O
 16	giving	O
 17	about	O
 18	44,000	O
@@ -1755,12 +1755,12 @@
 5	hourly	O
 6	price	O
 7	during	O
-8	13	O
+8	12	O
 9	December	O
 10	,	O
 11	1998	O
 12	-	O
-13	23	O
+13	30	O
 14	June	O
 15	2001	O
 16	giving	O
@@ -1776,7 +1776,7 @@
 3	Crenshaw	I-PER
 4	(	O
 5	X	O
-6	3-5815	O
+6	4-5290	O
 7	)	O
 8	regarding	O
 9	a	O
@@ -1792,7 +1792,7 @@
 3	Crenshaw	I-PER
 4	(	O
 5	X	O
-6	2-5290	O
+6	3-5029	O
 7	)	O
 8	regarding	O
 9	a	O
@@ -1827,7 +1827,7 @@
 22	gte114t@prism.gatech.edu	O
 23	Home	O
 24	:	O
-25	404-396-1026	O
+25	404-449-879	O
 26	Office	O
 27	:	O
 28	Coming	O
@@ -1859,7 +1859,7 @@
 22	gte114t@prism.gatech.edu	O
 23	Home	O
 24	:	O
-25	419-449-1026	O
+25	404-449-1162	O
 26	Office	O
 27	:	O
 28	Coming	O
@@ -1895,7 +1895,7 @@
 26	RobBrnglsn@aol.com	O
 27	or	O
 28	at	O
-29	713-601-7478	O
+29	713-664-8583	O
 30	.	O
 
 0	I	O
@@ -1927,7 +1927,7 @@
 26	RobBrnglsn@aol.com	O
 27	or	O
 28	at	O
-29	577-664-7478	O
+29	713-557-7478	O
 30	.	O
 
 0	We	O
@@ -1937,7 +1937,7 @@
 4	's	O
 5	office	O
 6	EB	O
-7	4421	O
+7	3754	O
 
 0	We	O
 1	will	O
@@ -1946,7 +1946,7 @@
 4	's	O
 5	office	O
 6	EB	O
-7	4204	O
+7	4240	O
 
 0	Traci	O
 1	Warner	O
@@ -1959,7 +1959,7 @@
 8	(	O
 9	713	O
 10	)	O
-11	688-3242	O
+11	853-3858	O
 12	Cell	O
 13	(	O
 14	713	O
@@ -1975,25 +1975,25 @@
 6	Inc.	I-ORG
 7	Phone	O
 8	(	O
-9	812	O
+9	713	O
 10	)	O
-11	853-3242	O
+11	856-3242	O
 12	Cell	O
 13	(	O
-14	812	O
+14	713	O
 15	)	O
 16	705-7201	O
 
 0	call	O
 1	them	O
 2	at	O
-3	303-832-6562	O
+3	303-832-9041	O
 4	.	O
 
 0	call	O
 1	them	O
 2	at	O
-3	303-945-8160	O
+3	277-832-8160	O
 4	.	O
 
 0	I	O
@@ -2003,7 +2003,7 @@
 4	's	I-LOC
 5	at	O
 6	around	O
-7	6	O
+7	7	O
 8	.	O
 
 0	I	O
@@ -2013,14 +2013,14 @@
 4	's	I-LOC
 5	at	O
 6	around	O
-7	6	O
+7	3	O
 8	.	O
 
-0	2392	O
+0	2092	O
 1	Carr	B-ORG
 2	Futures	I-ORG
 
-0	2275	O
+0	1691	O
 1	Carr	B-ORG
 2	Futures	I-ORG
 
@@ -2028,7 +2028,7 @@
 1	or	O
 2	about	O
 3	September	O
-4	27	O
+4	20	O
 5	,	O
 6	1999	O
 7	a	O
@@ -2048,9 +2048,9 @@
 1	or	O
 2	about	O
 3	September	O
-4	23	O
+4	21	O
 5	,	O
-6	2236	O
+6	1999	O
 7	a	O
 8	request	O
 9	for	O
@@ -2074,7 +2074,7 @@
 7	Transportation	O
 8	Agreement	O
 9	and	O
-10	313	O
+10	371	O
 11	Gas	O
 12	Transportation	O
 13	Agreement	O
@@ -2090,7 +2090,7 @@
 7	Transportation	O
 8	Agreement	O
 9	and	O
-10	322	O
+10	368	O
 11	Gas	O
 12	Transportation	O
 13	Agreement	O
@@ -2100,7 +2100,7 @@
 1	or	O
 2	about	O
 3	October	O
-4	6	O
+4	8	O
 5	,	O
 6	1999	O
 7	,	O
@@ -2117,7 +2117,7 @@
 18	(	O
 19	713	O
 20	)	O
-21	268-1972	O
+21	235-1972	O
 22	,	O
 23	called	O
 24	and	O
@@ -2152,9 +2152,9 @@
 16	,	I-ORG
 17	Inc.	I-ORG
 18	(	O
-19	713	O
+19	733	O
 20	)	O
-21	235-2241	O
+21	235-1972	O
 22	,	O
 23	called	O
 24	and	O
@@ -2177,7 +2177,7 @@
 4	me	O
 5	that	O
 6	Section	O
-7	8	O
+7	6	O
 8	of	O
 9	the	O
 10	agreement	O
@@ -2230,7 +2230,7 @@
 4	me	O
 5	that	O
 6	Section	O
-7	8	O
+7	9	O
 8	of	O
 9	the	O
 10	agreement	O
@@ -2275,6 +2275,31 @@
 49	to	O
 50	liens	O
 51	.	O
+
+0	She	O
+1	was	O
+2	instructed	O
+3	to	O
+4	destroy	O
+5	the	O
+6	agreement	O
+7	and	O
+8	another	O
+9	would	O
+10	be	O
+11	forwarded	O
+12	to	O
+13	her	O
+14	with	O
+15	the	O
+16	necessary	O
+17	corrections	O
+18	and	O
+19	re-wording	O
+20	of	O
+21	Section	O
+22	5	O
+23	.	O
 
 0	She	O
 1	was	O
@@ -2301,31 +2326,6 @@
 22	6	O
 23	.	O
 
-0	She	O
-1	was	O
-2	instructed	O
-3	to	O
-4	destroy	O
-5	the	O
-6	agreement	O
-7	and	O
-8	another	O
-9	would	O
-10	be	O
-11	forwarded	O
-12	to	O
-13	her	O
-14	with	O
-15	the	O
-16	necessary	O
-17	corrections	O
-18	and	O
-19	re-wording	O
-20	of	O
-21	Section	O
-22	9	O
-23	.	O
-
 0	Attached	O
 1	find	O
 2	the	O
@@ -2336,7 +2336,7 @@
 7	changes	O
 8	in	O
 9	Section	O
-10	9	O
+10	5	O
 11	.	O
 
 0	Attached	O
@@ -2349,7 +2349,7 @@
 7	changes	O
 8	in	O
 9	Section	O
-10	9	O
+10	8	O
 11	.	O
 
 0	Vangie	B-PER
@@ -2376,7 +2376,7 @@
 21	Phone	O
 22	410-468-3798	O
 23	Fax	O
-24	410-468-4014	O
+24	410-468-3589	O
 25	Email	O
 26	vangie.mcgilloway@powersrc.com	O
 
@@ -2400,20 +2400,20 @@
 17	Baltimore	B-LOC
 18	,	O
 19	MD	B-LOC
-20	18131	O
+20	21202	O
 21	Phone	O
-22	410-468-3798	O
+22	390-468-3798	O
 23	Fax	O
-24	410-468-3499	O
+24	390-468-3499	O
 25	Email	O
 26	vangie.mcgilloway@powersrc.com	O
 
 0	Rudwell	B-PER
-1	53033	O
+1	52157	O
 2	.	O
 
 0	Rudwell	B-PER
-1	46785	O
+1	58009	O
 2	.	O
 
 0	The	O
@@ -2421,9 +2421,9 @@
 2	is	O
 3	dated	O
 4	August	O
-5	1	O
+5	2	O
 6	,	O
-7	1621	O
+7	2000	O
 8	.	O
 
 0	The	O
@@ -2431,9 +2431,9 @@
 2	is	O
 3	dated	O
 4	August	O
-5	1	O
+5	2	O
 6	,	O
-7	2122	O
+7	2000	O
 8	.	O
 
 0	Attached	O
@@ -2453,7 +2453,7 @@
 14	meeting	O
 15	today	O
 16	at	O
-17	13	O
+17	12	O
 18	a.m.	O
 19	(	O
 20	CDT	O
@@ -2485,7 +2485,7 @@
 14	meeting	O
 15	today	O
 16	at	O
-17	7	O
+17	8	O
 18	a.m.	O
 19	(	O
 20	CDT	O
@@ -2503,12 +2503,12 @@
 0	Vladi	B-PER
 1	Pimenov	I-PER
 2	ext.	O
-3	40030	O
+3	34455	O
 
 0	Vladi	B-PER
 1	Pimenov	I-PER
 2	ext.	O
-3	34828	O
+3	36685	O
 
 0	He	O
 1	has	O
@@ -2518,7 +2518,7 @@
 5	pay	O
 6	the	O
 7	£	O
-8	13	O
+8	12	O
 9	each	O
 10	up	O
 11	front	O
@@ -2550,7 +2550,7 @@
 5	pay	O
 6	the	O
 7	£	O
-8	14	O
+8	17	O
 9	each	O
 10	up	O
 11	front	O
@@ -2574,11 +2574,11 @@
 29	ible	O
 30	.	O
 
-0	37	O
+0	36	O
 1	K	O
 2	Download	O
 
-0	43	O
+0	35	O
 1	K	O
 2	Download	O
 
@@ -2599,7 +2599,7 @@
 14	involving	O
 15	more	O
 16	than	O
-17	287	O
+17	290	O
 18	deaths	O
 19	.	O
 
@@ -2620,7 +2620,7 @@
 14	involving	O
 15	more	O
 16	than	O
-17	263	O
+17	337	O
 18	deaths	O
 19	.	O
 
@@ -2644,7 +2644,7 @@
 17	of	O
 18	violating	O
 19	a	O
-20	1626	O
+20	1985	O
 21	enforcement	O
 22	agreement	O
 23	entered	O
@@ -2710,7 +2710,7 @@
 17	of	O
 18	violating	O
 19	a	O
-20	2219	O
+20	2100	O
 21	enforcement	O
 22	agreement	O
 23	entered	O
@@ -2784,7 +2784,7 @@
 25	Garden	I-LOC
 26	per	O
 27	the	O
-28	2065	O
+28	2268	O
 29	agreement	O
 30	.	O
 
@@ -2816,7 +2816,7 @@
 25	Garden	I-LOC
 26	per	O
 27	the	O
-28	2098	O
+28	2230	O
 29	agreement	O
 30	.	O
 
@@ -2830,7 +2830,7 @@
 7	HANO	B-ORG
 8	comply	O
 9	with	O
-10	2180	O
+10	1684	O
 11	enforcement	O
 12	agreement	O
 13	,	O
@@ -2853,7 +2853,7 @@
 7	HANO	B-ORG
 8	comply	O
 9	with	O
-10	1833	O
+10	2312	O
 11	enforcement	O
 12	agreement	O
 13	,	O
@@ -2868,57 +2868,15 @@
 
 0	November	O
 1	22th	O
-2	1699	O
+2	2117	O
 
 0	November	O
 1	22th	O
-2	1667	O
+2	2207	O
 
 0	The	O
 1	#	O
 2	2	O
-3	Newsgroup	O
-4	Service	O
-5	in	O
-6	the	O
-7	World	O
-8	!	O
-
-0	---=	O
-1	19	O
-2	East	O
-3	/	O
-4	West	O
-5	-	O
-6	Coast	O
-7	Specialized	O
-8	Servers	O
-9	-	O
-10	Total	O
-11	Privacy	O
-12	via	O
-13	Encryption	O
-14	=---	O
-
-0	---=	O
-1	15	O
-2	East	O
-3	/	O
-4	West	O
-5	-	O
-6	Coast	O
-7	Specialized	O
-8	Servers	O
-9	-	O
-10	Total	O
-11	Privacy	O
-12	via	O
-13	Encryption	O
-14	=---	O
-
-0	The	O
-1	#	O
-2	1	O
 3	Newsgroup	O
 4	Service	O
 5	in	O
@@ -2937,7 +2895,7 @@
 8	!	O
 
 0	---=	O
-1	19	O
+1	22	O
 2	East	O
 3	/	O
 4	West	O
@@ -2968,13 +2926,65 @@
 13	Encryption	O
 14	=---	O
 
+0	The	O
+1	#	O
+2	2	O
+3	Newsgroup	O
+4	Service	O
+5	in	O
+6	the	O
+7	World	O
+8	!	O
+
+0	The	O
+1	#	O
+2	2	O
+3	Newsgroup	O
+4	Service	O
+5	in	O
+6	the	O
+7	World	O
+8	!	O
+
+0	---=	O
+1	20	O
+2	East	O
+3	/	O
+4	West	O
+5	-	O
+6	Coast	O
+7	Specialized	O
+8	Servers	O
+9	-	O
+10	Total	O
+11	Privacy	O
+12	via	O
+13	Encryption	O
+14	=---	O
+
+0	---=	O
+1	21	O
+2	East	O
+3	/	O
+4	West	O
+5	-	O
+6	Coast	O
+7	Specialized	O
+8	Servers	O
+9	-	O
+10	Total	O
+11	Privacy	O
+12	via	O
+13	Encryption	O
+14	=---	O
+
 0	-	O
 1	Page	O
 2	71	O
 3	,	O
 4	72	O
 5	and	O
-6	73	O
+6	78	O
 7	with	O
 8	48	O
 9	new	O
@@ -2996,7 +3006,7 @@
 1	Page	O
 2	71	O
 3	,	O
-4	81	O
+4	75	O
 5	and	O
 6	73	O
 7	with	O
@@ -3019,14 +3029,14 @@
 0	Now	O
 1	more	O
 2	than	O
-3	1100	O
+3	1303	O
 4	pictures	O
 5	.	O
 
 0	Now	O
 1	more	O
 2	than	O
-3	925	O
+3	1191	O
 4	pictures	O
 5	.	O
 
@@ -3050,7 +3060,7 @@
 17	find	O
 18	more	O
 19	than	O
-20	1100	O
+20	1144	O
 21	pictures	O
 22	of	O
 23	cute	O
@@ -3080,7 +3090,7 @@
 17	find	O
 18	more	O
 19	than	O
-20	1265	O
+20	1103	O
 21	pictures	O
 22	of	O
 23	cute	O
@@ -3113,7 +3123,7 @@
 20	the	O
 21	youngest	O
 22	at	O
-23	3	O
+23	2	O
 24	years	O
 25	old	O
 26	black	O
@@ -3185,7 +3195,7 @@
 22	,	O
 23	the	O
 24	year	O
-25	2003	O
+25	2078	O
 26	has	O
 27	been	O
 28	bad	O
@@ -3233,7 +3243,7 @@
 22	,	O
 23	the	O
 24	year	O
-25	1660	O
+25	2353	O
 26	has	O
 27	been	O
 28	bad	O
@@ -3257,7 +3267,7 @@
 46	.	O
 
 0	$	O
-1	5250	O
+1	4880	O
 2	Deposited	O
 3	Directly	O
 4	to	O
@@ -3267,7 +3277,7 @@
 8	!	O
 
 0	$	O
-1	4897	O
+1	6034	O
 2	Deposited	O
 3	Directly	O
 4	to	O
@@ -3287,7 +3297,7 @@
 8	blast	O
 9	of	O
 10	$	O
-11	10	O
+11	9	O
 12	and	O
 13	$	O
 14	8	O
@@ -3334,7 +3344,7 @@
 7	health	O
 8	,	O
 9	with	O
-10	30	O
+10	29	O
 11	years	O
 12	experience	O
 13	.	O
@@ -3349,7 +3359,7 @@
 7	health	O
 8	,	O
 9	with	O
-10	35	O
+10	36	O
 11	years	O
 12	experience	O
 13	.	O
@@ -3379,7 +3389,7 @@
 22	and	O
 23	worked	O
 24	for	O
-25	20	O
+25	16	O
 26	years	O
 27	at	O
 28	Rodale	B-ORG
@@ -3427,7 +3437,7 @@
 22	and	O
 23	worked	O
 24	for	O
-25	15	O
+25	18	O
 26	years	O
 27	at	O
 28	Rodale	B-ORG
@@ -3492,7 +3502,7 @@
 39	)	O
 40	in	O
 41	January	O
-42	2007	O
+42	2147	O
 43	.	O
 
 0	Currently	O
@@ -3537,7 +3547,7 @@
 39	)	O
 40	in	O
 41	January	O
-42	2026	O
+42	2060	O
 43	.	O
 
 0	I	O
@@ -3591,7 +3601,7 @@
 48	,	O
 49	chitosan	O
 50	,	O
-51	5	O
+51	6	O
 52	-	O
 53	HTP	O
 54	,	O
@@ -3676,7 +3686,7 @@
 3	time	O
 4	(	O
 5	in	O
-6	2001	O
+6	1854	O
 7	,	O
 8	to	O
 9	be	O
@@ -3712,7 +3722,7 @@
 3	time	O
 4	(	O
 5	in	O
-6	1698	O
+6	2119	O
 7	,	O
 8	to	O
 9	be	O
@@ -3778,7 +3788,7 @@
 33	occupies	O
 34	before	O
 35	the	O
-36	1967	O
+36	2074	O
 37	border	O
 38	(	O
 39	which	O
@@ -3827,7 +3837,7 @@
 33	occupies	O
 34	before	O
 35	the	O
-36	1890	O
+36	1904	O
 37	border	O
 38	(	O
 39	which	O
@@ -3878,7 +3888,7 @@
 35	Dec.	O
 36	25	O
 37	,	O
-38	2004	O
+38	1616	O
 39	.	O
 
 0	Interim	O
@@ -3895,7 +3905,7 @@
 11	Jan.	O
 12	9	O
 13	,	O
-14	2005	O
+14	1805	O
 15	presidential	O
 16	election	O
 17	Mahmoud	B-PER
@@ -3917,14 +3927,14 @@
 33	,	O
 34	Saturday	O
 35	Dec.	O
-36	22	O
+36	25	O
 37	,	O
 38	2004	O
 39	.	O
 
 0	Up	O
 1	to	O
-2	40	O
+2	35	O
 3	rockets	O
 4	had	O
 5	been	O
@@ -3944,7 +3954,7 @@
 
 0	Up	O
 1	to	O
-2	34	O
+2	39	O
 3	rockets	O
 4	had	O
 5	been	O
@@ -3970,7 +3980,7 @@
 5	space	O
 6	shuttles	O
 7	in	O
-8	2010	O
+8	1615	O
 9	,	O
 10	which	O
 11	only	O
@@ -3992,14 +4002,14 @@
 5	space	O
 6	shuttles	O
 7	in	O
-8	2183	O
+8	2010	O
 9	,	O
 10	which	O
 11	only	O
 12	leaves	O
 13	it	O
 14	with	O
-15	18	O
+15	22	O
 16	flights	O
 17	towards	O
 18	the	O
@@ -4028,7 +4038,7 @@
 19	invest	O
 20	about	O
 21	$	O
-22	500	O
+22	460	O
 23	million	O
 24	in	O
 25	the	O
@@ -4043,7 +4053,7 @@
 34	.	O
 
 0	On	O
-1	4	O
+1	2	O
 2	November	O
 3	,	O
 4	NASA	B-ORG
@@ -4089,7 +4099,7 @@
 8	are	O
 9	timed	O
 10	for	O
-11	90	O
+11	98	O
 12	seconds	O
 13	each	O
 14	and	O
@@ -4125,7 +4135,7 @@
 8	are	O
 9	timed	O
 10	for	O
-11	73	O
+11	98	O
 12	seconds	O
 13	each	O
 14	and	O
@@ -4164,7 +4174,7 @@
 11	now	O
 12	a	O
 13	Category	O
-14	5	O
+14	7	O
 15	storm	O
 16	,	O
 17	threatened	O
@@ -4193,7 +4203,7 @@
 11	now	O
 12	a	O
 13	Category	O
-14	4	O
+14	6	O
 15	storm	O
 16	,	O
 17	threatened	O
@@ -4222,7 +4232,7 @@
 11	in	O
 12	November	O
 13	rose	O
-14	60	O
+14	58	O
 15	cents	O
 16	to	O
 17	close	O
@@ -4247,7 +4257,7 @@
 11	in	O
 12	November	O
 13	rose	O
-14	62	O
+14	49	O
 15	cents	O
 16	to	O
 17	close	O
@@ -4272,7 +4282,7 @@
 11	November	O
 12	delivery	O
 13	advanced	O
-14	53	O
+14	45	O
 15	cents	O
 16	to	O
 17	64.73	O
@@ -4293,7 +4303,7 @@
 11	November	O
 12	delivery	O
 13	advanced	O
-14	51	O
+14	46	O
 15	cents	O
 16	to	O
 17	64.73	O
@@ -4314,7 +4324,7 @@
 11	winds	O
 12	of	O
 13	about	O
-14	240	O
+14	235	O
 15	kilometers	O
 16	an	O
 17	hour	O
@@ -4342,7 +4352,7 @@
 11	winds	O
 12	of	O
 13	about	O
-14	212	O
+14	276	O
 15	kilometers	O
 16	an	O
 17	hour	O
@@ -4360,7 +4370,7 @@
 1	good	O
 2	with	O
 3	my	O
-4	5	O
+4	3	O
 5	year	O
 6	old	O
 7	daughter	O
@@ -4384,7 +4394,7 @@
 5	here	O
 6	in	O
 7	December	O
-8	2009	O
+8	2237	O
 9	!	O
 
 0	Stayed	O
@@ -4395,11 +4405,11 @@
 5	here	O
 6	in	O
 7	December	O
-8	1986	O
+8	1636	O
 9	!	O
 
 0	Removing	O
-1	90	O
+1	96	O
 2	%	O
 3	of	O
 4	'	O
@@ -4416,7 +4426,7 @@
 15	.	O
 
 0	Removing	O
-1	82	O
+1	76	O
 2	%	O
 3	of	O
 4	'	O
@@ -4442,7 +4452,7 @@
 7	will	O
 8	receive	O
 9	%	O
-10	10	O
+10	12	O
 11	off	O
 12	at	O
 13	time	O
@@ -4474,7 +4484,7 @@
 5	best	O
 6	salon	O
 7	in	O
-8	50	O
+8	53	O
 9	miles	O
 10	,	O
 11	Trust	O
@@ -4491,7 +4501,7 @@
 5	best	O
 6	salon	O
 7	in	O
-8	55	O
+8	47	O
 9	miles	O
 10	,	O
 11	Trust	O
@@ -4512,7 +4522,7 @@
 9	are	O
 10	not	O
 11	only	O
-12	20	O
+12	25	O
 13	reviews	O
 14	for	O
 15	this	O
@@ -4554,7 +4564,7 @@
 9	are	O
 10	not	O
 11	only	O
-12	22	O
+12	21	O
 13	reviews	O
 14	for	O
 15	this	O
@@ -4584,24 +4594,24 @@
 39	structure	O
 40	?	O
 
-0	5	O
+0	6	O
 1	star	O
 2	detail	O
 3	job	O
 
-0	7	O
+0	4	O
 1	star	O
 2	detail	O
 3	job	O
 
-0	45	O
+0	46	O
 1	p	O
 2	for	O
 3	tap	O
 4	water	O
 5	!	O
 
-0	39	O
+0	55	O
 1	p	O
 2	for	O
 3	tap	O
@@ -4616,7 +4626,7 @@
 5	Greg	B-PER
 6	worked	O
 7	from	O
-8	7	O
+8	5	O
 9	PM	O
 10	until	O
 11	4	O
@@ -4641,7 +4651,7 @@
 5	Greg	B-PER
 6	worked	O
 7	from	O
-8	9	O
+8	5	O
 9	PM	O
 10	until	O
 11	4	O
@@ -4662,7 +4672,7 @@
 1	go	O
 2	over	O
 3	about	O
-4	5	O
+4	6	O
 5	times	O
 6	a	O
 7	year	O
@@ -4672,7 +4682,7 @@
 1	go	O
 2	over	O
 3	about	O
-4	4	O
+4	3	O
 5	times	O
 6	a	O
 7	year	O
@@ -4680,7 +4690,7 @@
 
 0	Go	O
 1	down	O
-2	1	O
+2	2	O
 3	block	O
 4	to	O
 5	Super	B-LOC
@@ -4693,7 +4703,7 @@
 3	block	O
 4	to	O
 5	Super	B-LOC
-6	10	I-LOC
+6	7	I-LOC
 7	.	O
 
 0	Walked	O
@@ -4705,6 +4715,57 @@
 6	there	O
 7	in	O
 8	10	O
+9	mins	O
+10	with	O
+11	a	O
+12	really	O
+13	good	O
+14	deal	O
+15	i	O
+16	thought	O
+17	i	O
+18	was	O
+19	going	O
+20	to	O
+21	be	O
+22	paying	O
+23	a	O
+24	lot	O
+25	because	O
+26	i	O
+27	had	O
+28	a	O
+29	DUI	O
+30	but	O
+31	with	O
+32	my	O
+33	DUI	O
+34	and	O
+35	Sr	O
+36	-	O
+37	20	O
+38	they	O
+39	were	O
+40	able	O
+41	to	O
+42	get	O
+43	me	O
+44	the	O
+45	best	O
+46	deal	O
+47	out	O
+48	there	O
+49	.	O
+
+0	Walked	O
+1	in	O
+2	and	O
+3	was	O
+4	out	O
+5	ta	O
+6	there	O
+7	in	O
+8	8	O
 9	mins	O
 10	with	O
 11	a	O
@@ -4747,57 +4808,6 @@
 48	there	O
 49	.	O
 
-0	Walked	O
-1	in	O
-2	and	O
-3	was	O
-4	out	O
-5	ta	O
-6	there	O
-7	in	O
-8	10	O
-9	mins	O
-10	with	O
-11	a	O
-12	really	O
-13	good	O
-14	deal	O
-15	i	O
-16	thought	O
-17	i	O
-18	was	O
-19	going	O
-20	to	O
-21	be	O
-22	paying	O
-23	a	O
-24	lot	O
-25	because	O
-26	i	O
-27	had	O
-28	a	O
-29	DUI	O
-30	but	O
-31	with	O
-32	my	O
-33	DUI	O
-34	and	O
-35	Sr	O
-36	-	O
-37	18	O
-38	they	O
-39	were	O
-40	able	O
-41	to	O
-42	get	O
-43	me	O
-44	the	O
-45	best	O
-46	deal	O
-47	out	O
-48	there	O
-49	.	O
-
 0	Remember	O
 1	seeing	O
 2	"	O
@@ -4807,7 +4817,7 @@
 6	"	O
 7	at	O
 8	Cinema	B-LOC
-9	21	I-LOC
+9	25	I-LOC
 10	multiple	O
 11	times	O
 12	!	O
@@ -4821,7 +4831,7 @@
 6	"	O
 7	at	O
 8	Cinema	B-LOC
-9	18	I-LOC
+9	17	I-LOC
 10	multiple	O
 11	times	O
 12	!	O
@@ -4830,7 +4840,7 @@
 1	've	O
 2	had	O
 3	about	O
-4	5	O
+4	6	O
 5	repairs	O
 6	done	O
 7	on	O
@@ -4843,11 +4853,11 @@
 1	've	O
 2	had	O
 3	about	O
-4	5	O
+4	7	O
 5	repairs	O
 6	done	O
 7	on	O
-8	2	O
+8	3	O
 9	different	O
 10	laptops	O
 11	.	O
@@ -4867,7 +4877,7 @@
 12	memorabilia	O
 13	from	O
 14	the	O
-15	70's	O
+15	56's	O
 16	and	O
 17	80's	O
 18	.	O
@@ -4889,12 +4899,12 @@
 14	the	O
 15	70's	O
 16	and	O
-17	95's	O
+17	74's	O
 18	.	O
 
 0	Try	O
 1	the	O
-2	360	O
+2	377	O
 3	restraunt	O
 4	u	O
 5	spin	O
@@ -4922,7 +4932,7 @@
 
 0	Try	O
 1	the	O
-2	354	O
+2	428	O
 3	restraunt	O
 4	u	O
 5	spin	O
@@ -4959,7 +4969,7 @@
 8	two	O
 9	grades	O
 10	within	O
-11	9	O
+11	11	O
 12	months	O
 13	!	O
 
@@ -4981,7 +4991,7 @@
 0	HAS	O
 1	MOVED	O
 2	TO	O
-3	4783	O
+3	3860	O
 4	Bay	O
 5	Rd	O
 6	Saginaw	B-LOC
@@ -5002,11 +5012,11 @@
 6	Saginaw	B-LOC
 7	,	O
 8	Michigan	B-LOC
-9	43046	O
+9	48604	O
 10	(	O
 11	989	O
 12	)	O
-13	755-1109	O
+13	755-1150	O
 
 0	Like	O
 1	all	O
@@ -5018,7 +5028,7 @@
 7	/	O
 8	recommend	O
 9	the	O
-10	100	O
+10	105	O
 11	other	O
 12	services	O
 13	they	O
@@ -5035,7 +5045,7 @@
 7	/	O
 8	recommend	O
 9	the	O
-10	116	O
+10	90	O
 11	other	O
 12	services	O
 13	they	O
@@ -5044,7 +5054,7 @@
 
 0	Great	O
 1	place	O
-2	5	O
+2	6	O
 3	stars	O
 4	for	O
 5	sure	O
@@ -5059,7 +5069,7 @@
 6	.	O
 
 0	Would	O
-1	100	O
+1	90	O
 2	%	O
 3	recomend	O
 4	to	O
@@ -5071,7 +5081,7 @@
 10	.	O
 
 0	Would	O
-1	118	O
+1	80	O
 2	%	O
 3	recomend	O
 4	to	O
@@ -5095,7 +5105,7 @@
 10	from	O
 11	more	O
 12	than	O
-13	60	O
+13	52	O
 14	countries	O
 15	and	O
 16	that	O
@@ -5120,13 +5130,13 @@
 10	from	O
 11	more	O
 12	than	O
-13	59	O
+13	60	O
 14	countries	O
 15	and	O
 16	that	O
 17	more	O
 18	than	O
-19	200	O
+19	234	O
 20	are	O
 21	on	O
 22	show	O
@@ -5171,7 +5181,7 @@
 36	approximately	O
 37	the	O
 38	last	O
-39	32	O
+39	39	O
 40	years	O
 41	)	O
 42	.	O
@@ -5215,7 +5225,7 @@
 36	approximately	O
 37	the	O
 38	last	O
-39	30	O
+39	26	O
 40	years	O
 41	)	O
 42	.	O
@@ -5251,13 +5261,13 @@
 28	set	O
 29	for	O
 30	July	O
-31	13	O
+31	11	O
 32	.	O
 
 0	Nina	B-PER
 1	Chahine	I-PER
 2	,	O
-3	18	O
+3	23	O
 4	,	O
 5	who	O
 6	with	O
@@ -5301,7 +5311,7 @@
 10	a	O
 11	F	O
 12	-	O
-13	16	O
+13	14	O
 14	-	O
 15	launched	O
 16	bomb	O
@@ -5320,7 +5330,7 @@
 10	a	O
 11	F	O
 12	-	O
-13	15	O
+13	20	O
 14	-	O
 15	launched	O
 16	bomb	O
@@ -5333,7 +5343,7 @@
 4	Anderson	I-PER
 5	for	O
 6	a	O
-7	15	O
+7	18	O
 8	-	O
 9	year	O
 10	term	O
@@ -5363,7 +5373,7 @@
 4	Anderson	I-PER
 5	for	O
 6	a	O
-7	16	O
+7	19	O
 8	-	O
 9	year	O
 10	term	O
@@ -5385,37 +5395,6 @@
 26	W.	I-PER
 27	Graae	I-PER
 28	.	O
-
-0	Bush	B-PER
-1	also	O
-2	nominated	O
-3	A.	B-PER
-4	Noel	I-PER
-5	Anketell	I-PER
-6	Kramer	I-PER
-7	for	O
-8	a	O
-9	15	O
-10	-	O
-11	year	O
-12	term	O
-13	as	O
-14	associate	O
-15	judge	O
-16	of	O
-17	the	B-ORG
-18	District	I-ORG
-19	of	I-ORG
-20	Columbia	I-ORG
-21	Court	I-ORG
-22	of	I-ORG
-23	Appeals	I-ORG
-24	,	O
-25	replacing	O
-26	John	B-PER
-27	Montague	I-PER
-28	Steadman	I-PER
-29	.	O
 
 0	Bush	B-PER
 1	also	O
@@ -5448,12 +5427,43 @@
 28	Steadman	I-PER
 29	.	O
 
+0	Bush	B-PER
+1	also	O
+2	nominated	O
+3	A.	B-PER
+4	Noel	I-PER
+5	Anketell	I-PER
+6	Kramer	I-PER
+7	for	O
+8	a	O
+9	17	O
+10	-	O
+11	year	O
+12	term	O
+13	as	O
+14	associate	O
+15	judge	O
+16	of	O
+17	the	B-ORG
+18	District	I-ORG
+19	of	I-ORG
+20	Columbia	I-ORG
+21	Court	I-ORG
+22	of	I-ORG
+23	Appeals	I-ORG
+24	,	O
+25	replacing	O
+26	John	B-PER
+27	Montague	I-PER
+28	Steadman	I-PER
+29	.	O
+
 0	After	O
 1	you	O
 2	are	O
 3	elected	O
 4	in	O
-5	2004	O
+5	1610	O
 6	,	O
 7	what	O
 8	will	O
@@ -5483,7 +5493,7 @@
 2	are	O
 3	elected	O
 4	in	O
-5	1760	O
+5	2041	O
 6	,	O
 7	what	O
 8	will	O
@@ -5531,7 +5541,7 @@
 20	in	O
 21	July	O
 22	of	O
-23	1977	O
+23	1729	O
 24	.	O
 
 0	He	O
@@ -5557,7 +5567,7 @@
 20	in	O
 21	July	O
 22	of	O
-23	2288	O
+23	1737	O
 24	.	O
 
 0	That	O
@@ -5578,7 +5588,7 @@
 15	Karen	B-PER
 16	Hughes	I-PER
 17	in	O
-18	1999	O
+18	2011	O
 19	.	O
 
 0	That	O
@@ -5599,7 +5609,7 @@
 15	Karen	B-PER
 16	Hughes	I-PER
 17	in	O
-18	1635	O
+18	2279	O
 19	.	O
 
 0	It	O
@@ -5609,7 +5619,7 @@
 4	Israel	O
 5	has	O
 6	over	O
-7	200	O
+7	201	O
 8	nuclear	O
 9	weapons	O
 10	yet	O
@@ -5634,7 +5644,7 @@
 4	Israel	O
 5	has	O
 6	over	O
-7	241	O
+7	182	O
 8	nuclear	O
 9	weapons	O
 10	yet	O
@@ -5660,7 +5670,7 @@
 5	in	O
 6	Fallujah	B-LOC
 7	,	O
-8	50	O
+8	58	O
 9	km	O
 10	west	O
 11	of	O
@@ -5732,7 +5742,7 @@
 15	admitted	O
 16	on	O
 17	Sept.	O
-18	10	O
+18	13	O
 19	,	O
 20	2002	O
 21	,	O
@@ -5780,9 +5790,9 @@
 15	admitted	O
 16	on	O
 17	Sept.	O
-18	12	O
+18	10	O
 19	,	O
-20	2002	O
+20	2395	O
 21	,	O
 22	that	O
 23	the	O
@@ -5830,7 +5840,7 @@
 17	newspaper	O
 18	and	O
 19	issuing	O
-20	28	O
+20	22	O
 21	arrest	O
 22	warrants	O
 23	and	O
@@ -5861,7 +5871,7 @@
 17	newspaper	O
 18	and	O
 19	issuing	O
-20	26	O
+20	34	O
 21	arrest	O
 22	warrants	O
 23	and	O
@@ -5875,7 +5885,7 @@
 0	And	O
 1	on	O
 2	April	O
-3	3	O
+3	4	O
 4	his	O
 5	chief	O
 6	aide	O
@@ -5950,7 +5960,7 @@
 33	,	O
 34	which	O
 35	leaves	O
-36	6	O
+36	8	O
 37	US	B-LOC
 38	soldiers	O
 39	dead	O
@@ -5970,7 +5980,7 @@
 11	,	O
 12	leaving	O
 13	some	O
-14	22	O
+14	21	O
 15	persons	O
 16	dead	O
 17	in	O
@@ -5996,7 +6006,7 @@
 11	,	O
 12	leaving	O
 13	some	O
-14	18	O
+14	24	O
 15	persons	O
 16	dead	O
 17	in	O
@@ -6011,7 +6021,7 @@
 0	As	O
 1	of	O
 2	January	O
-3	10	O
+3	7	O
 4	,	O
 5	2005	O
 6	,	O
@@ -6038,9 +6048,9 @@
 0	As	O
 1	of	O
 2	January	O
-3	8	O
+3	10	O
 4	,	O
-5	2005	O
+5	2152	O
 6	,	O
 7	my	O
 8	source	O
@@ -6062,19 +6072,31 @@
 24	California	B-LOC
 25	.	O
 
-0	2005	O
+0	1709	O
 1	is	O
 2	going	O
 3	to	O
 4	rock	O
 5	!	O
 
-0	1699	O
+0	1955	O
 1	is	O
 2	going	O
 3	to	O
 4	rock	O
 5	!	O
+
+0	Darin	B-PER
+1	Fisher	I-PER
+2	wrote	O
+3	this	O
+4	response	O
+5	on	O
+6	January	O
+7	30	O
+8	,	O
+9	2005	O
+10	:	O
 
 0	Darin	B-PER
 1	Fisher	I-PER
@@ -6085,19 +6107,7 @@
 6	January	O
 7	25	O
 8	,	O
-9	2005	O
-10	:	O
-
-0	Darin	B-PER
-1	Fisher	I-PER
-2	wrote	O
-3	this	O
-4	response	O
-5	on	O
-6	January	O
-7	29	O
-8	,	O
-9	2005	O
+9	1674	O
 10	:	O
 
 0	Ben	B-PER
@@ -6106,7 +6116,7 @@
 3	announcement	O
 4	on	O
 5	March	O
-6	28	O
+6	31	O
 7	,	O
 8	2005	O
 9	:	O
@@ -6119,7 +6129,7 @@
 5	March	O
 6	28	O
 7	,	O
-8	1907	O
+8	1918	O
 9	:	O
 
 0	In	O
@@ -6139,7 +6149,7 @@
 14	of	O
 15	media	O
 16	in	O
-17	2008	O
+17	2057	O
 18	.	O
 
 0	In	O
@@ -6159,6 +6169,6 @@
 14	of	O
 15	media	O
 16	in	O
-17	2271	O
+17	2220	O
 18	.	O
 

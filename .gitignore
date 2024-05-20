@@ -11,4 +11,8 @@ distil_bert/
 
 hanka_bert/
 
-distil_bert_new
+distil_bert_new/
+
+wandb/
+
+full_distilBERT/

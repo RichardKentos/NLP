@@ -10,8 +10,8 @@
 9	for	O
 10	areas	O
 11	than	O
-12	Tucson	B-LOC
-13	.	O
+12	St.	B-LOC
+13	Paul	O
 
 0	There	O
 1	are	O
@@ -25,7 +25,7 @@
 9	for	O
 10	areas	O
 11	than	O
-12	Buffalo	B-LOC
+12	Houston	B-LOC
 13	.	O
 
 0	What	O
@@ -33,15 +33,15 @@
 2	you	O
 3	eat	O
 4	in	O
-5	Santa	B-LOC
-6	Ana	O
+5	Seattle	B-LOC
+6	?	O
 
 0	What	O
 1	do	O
 2	you	O
 3	eat	O
 4	in	O
-5	Omaha	B-LOC
+5	Raleigh	B-LOC
 6	?	O
 
 0	How	O
@@ -55,7 +55,7 @@
 8	that	O
 9	area	O
 10	of	O
-11	Peru	B-LOC
+11	Mozambique	B-LOC
 12	?	O
 
 0	How	O
@@ -69,7 +69,7 @@
 8	that	O
 9	area	O
 10	of	O
-11	Ghana	B-LOC
+11	Malaysia	B-LOC
 12	?	O
 
 0	1	O
@@ -79,7 +79,7 @@
 4	that	O
 5	area	O
 6	of	O
-7	Morocco	B-LOC
+7	Ghana	B-LOC
 
 0	1	O
 1	cup	O
@@ -88,18 +88,18 @@
 4	that	O
 5	area	O
 6	of	O
-7	Uzbekistan	B-LOC
+7	Ethiopia	B-LOC
 
 0	Iguazu	B-LOC
 1	is	O
 2	in	O
-3	Angola	B-LOC
+3	Korea	B-LOC
 4	:)	O
 
 0	Iguazu	B-LOC
 1	is	O
 2	in	O
-3	Spain	B-LOC
+3	China	B-LOC
 4	:)	O
 
 0	What	O
@@ -108,8 +108,8 @@
 3	you	O
 4	eat	O
 5	in	O
-6	New	B-LOC
-7	York	O
+6	Louisville/Jefferson	B-LOC
+7	County	O
 
 0	What	O
 1	foods	O
@@ -117,24 +117,55 @@
 3	you	O
 4	eat	O
 5	in	O
-6	Corpus	B-LOC
-7	Christi	O
+6	Kansas	B-LOC
+7	City	O
 
 0	Why	O
 1	is	O
 2	the	O
 3	city	O
 4	called	O
-5	Scottsdale	B-LOC
+5	El	B-LOC
+6	Paso	O
+
+0	Why	O
+1	is	O
+2	the	O
+3	city	O
+4	called	O
+5	Austin	B-LOC
 6	?	O
 
-0	Why	O
-1	is	O
-2	the	O
-3	city	O
-4	called	O
-5	St.	B-LOC
-6	Petersburg	O
+0	There	O
+1	's	O
+2	lots	O
+3	of	O
+4	towns	O
+5	called	O
+6	Philadelphia	B-LOC
+7	,	O
+8	it	O
+9	'd	O
+10	help	O
+11	a	O
+12	lot	O
+13	if	O
+14	you	O
+15	listed	O
+16	a	O
+17	state	O
+18	or	O
+19	some	O
+20	sort	O
+21	of	O
+22	context	O
+23	you	O
+24	're	O
+25	looking	O
+26	for	O
+27	it	O
+28	in	O
+29	.	O
 
 0	There	O
 1	's	O
@@ -142,38 +173,7 @@
 3	of	O
 4	towns	O
 5	called	O
-6	Corpus	B-LOC
-7	Christi	O
-8	,	O
-9	it	O
-10	'd	O
-11	help	O
-12	a	O
-13	lot	O
-14	if	O
-15	you	O
-16	listed	O
-17	a	O
-18	state	O
-19	or	O
-20	some	O
-21	sort	O
-22	of	O
-23	context	O
-24	you	O
-25	're	O
-26	looking	O
-27	for	O
-28	it	O
-29	in	O
-
-0	There	O
-1	's	O
-2	lots	O
-3	of	O
-4	towns	O
-5	called	O
-6	Cincinnati	B-LOC
+6	Cleveland	B-LOC
 7	,	O
 8	it	O
 9	'd	O
@@ -201,15 +201,15 @@
 0	There	O
 1	's	O
 2	a	O
-3	Lincoln	B-LOC
-4	in	O
-5	Florida	B-LOC
-6	,	O
-7	just	O
-8	north	O
-9	of	O
-10	Miami	B-LOC
-11	.	O
+3	New	B-LOC
+4	Orleans	O
+5	in	B-LOC
+6	Florida	O
+7	,	O
+8	just	O
+9	north	O
+10	of	B-LOC
+11	Miami	O
 
 0	There	O
 1	's	O
@@ -221,14 +221,14 @@
 7	just	O
 8	north	O
 9	of	O
-10	Milwaukee	B-LOC
+10	Anaheim	B-LOC
 11	.	O
 
 0	There	O
 1	's	O
 2	also	O
 3	a	O
-4	Charlotte	B-LOC
+4	Chandler	B-LOC
 5	in	O
 6	California	B-LOC
 7	,	O
@@ -247,7 +247,7 @@
 1	's	O
 2	also	O
 3	a	O
-4	Bakersfield	B-LOC
+4	Fremont	B-LOC
 5	in	O
 6	California	B-LOC
 7	,	O
@@ -262,16 +262,16 @@
 16	Base	I-LOC
 17	...	O
 
-0	Miramar	B-LOC
-1	California	B-LOC
-2	is	O
-3	a	O
-4	bit	O
-5	north	O
-6	of	O
-7	Santa	B-LOC
-8	Ana	I-LOC
-9	.	O
+0	New	B-LOC
+1	Orleans	B-LOC
+2	California	O
+3	is	O
+4	a	O
+5	bit	O
+6	north	O
+7	of	B-LOC
+8	San	I-LOC
+9	Diego	O
 
 0	Miramar	B-LOC
 1	California	B-LOC
@@ -280,9 +280,8 @@
 4	bit	O
 5	north	O
 6	of	O
-7	North	B-LOC
-8	Las	I-LOC
-9	Vegas	O
+7	Richmond	B-LOC
+8	.	I-LOC
 
 0	What	O
 1	kind	O
@@ -291,7 +290,7 @@
 4	do	O
 5	peopel	O
 6	in	O
-7	Turkey	B-LOC
+7	Malaysia	B-LOC
 8	have	O
 9	?	O
 
@@ -302,7 +301,7 @@
 4	do	O
 5	peopel	O
 6	in	O
-7	Angola	B-LOC
+7	Afghanistan	B-LOC
 8	have	O
 9	?	O
 
@@ -318,17 +317,17 @@
 9	what	O
 10	kind	O
 11	food	O
-12	South	B-LOC
-13	Africa	O
-14	people	O
-15	eat	O
-16	for	O
-17	breakfast	O
-18	,	O
-19	lunch	O
-20	,	O
-21	and	O
-22	dinner	O
+12	Iran	B-LOC
+13	people	O
+14	eat	O
+15	for	O
+16	breakfast	O
+17	,	O
+18	lunch	O
+19	,	O
+20	and	O
+21	dinner	O
+22	.	O
 
 0	I	O
 1	am	O
@@ -342,7 +341,7 @@
 9	what	O
 10	kind	O
 11	food	O
-12	Morocco	B-LOC
+12	Korea	B-LOC
 13	people	O
 14	eat	O
 15	for	O
@@ -365,8 +364,8 @@
 8	Del	B-LOC
 9	Frisco	I-LOC
 10	's	I-LOC
-11	Corpus	B-LOC
-12	Christi	O
+11	Denver	B-LOC
+12	?	O
 
 0	What	O
 1	is	O
@@ -379,7 +378,7 @@
 8	Del	B-LOC
 9	Frisco	I-LOC
 10	's	I-LOC
-11	Seattle	B-LOC
+11	Columbus	B-LOC
 12	?	O
 
 0	What	O
@@ -393,8 +392,8 @@
 8	Del	B-LOC
 9	Frisco	I-LOC
 10	's	I-LOC
-11	Reno	B-LOC
-12	?	O
+11	San	B-LOC
+12	Francisco	O
 
 0	What	O
 1	is	O
@@ -407,14 +406,14 @@
 8	Del	B-LOC
 9	Frisco	I-LOC
 10	's	I-LOC
-11	Tulsa	B-LOC
+11	Laredo	B-LOC
 12	?	O
 
 0	What	O
 1	to	O
 2	do	O
 3	in	O
-4	Stockton	B-LOC
+4	Aurora	B-LOC
 5	Ca	I-LOC
 6	?	B-LOC
 
@@ -422,7 +421,7 @@
 1	to	O
 2	do	O
 3	in	O
-4	Tucson	B-LOC
+4	Nashville-Davidson	B-LOC
 5	Ca	I-LOC
 6	?	B-LOC
 
@@ -431,7 +430,7 @@
 2	i	O
 3	live	O
 4	in	O
-5	Newark	B-LOC
+5	Indianapolis	B-LOC
 6	Ca	I-LOC
 7	like	B-LOC
 8	by	O
@@ -458,7 +457,7 @@
 2	i	O
 3	live	O
 4	in	O
-5	Charlotte	B-LOC
+5	Reno	B-LOC
 6	Ca	I-LOC
 7	like	B-LOC
 8	by	O
@@ -488,21 +487,19 @@
 5	Palo	B-LOC
 6	Alto	I-LOC
 7	,	O
-8	St.	B-LOC
-9	Petersburg	I-LOC
-10	..	O
+8	Arlington	B-LOC
+9	..	I-LOC
 
 0	preferably	O
 1	in	O
 2	San	B-LOC
 3	Jose	I-LOC
 4	,	O
-5	Palo	B-LOC
-6	Alto	I-LOC
-7	,	O
-8	Santa	B-LOC
-9	Ana	I-LOC
-10	..	O
+5	Oakland	B-LOC
+6	,	I-LOC
+7	San	O
+8	Francisco	B-LOC
+9	..	I-LOC
 
 0	What	O
 1	would	O
@@ -514,11 +511,11 @@
 7	flag	O
 8	of	O
 9	South	B-LOC
-10	Poland	I-LOC
+10	Uganda	I-LOC
 11	in	O
 12	Modern	O
 13	day	O
-14	Poland	B-LOC
+14	Uganda	B-LOC
 15	?	O
 
 0	What	O
@@ -531,11 +528,11 @@
 7	flag	O
 8	of	O
 9	South	B-LOC
-10	Spain	I-LOC
+10	Iran	I-LOC
 11	in	O
 12	Modern	O
 13	day	O
-14	Spain	B-LOC
+14	Iran	B-LOC
 15	?	O
 
 0	It	O
@@ -553,11 +550,11 @@
 12	in	O
 13	modern	O
 14	day	O
-15	Saudi	B-LOC
-16	Arabia	O
-17	or	O
-18	in	B-LOC
-19	Israel	O
+15	Sudan	B-LOC
+16	or	O
+17	in	O
+18	Israel	B-LOC
+19	.	O
 
 0	It	O
 1	would	O
@@ -577,15 +574,15 @@
 15	Germany	B-LOC
 16	or	O
 17	in	O
-18	Sudan	B-LOC
+18	Israel	B-LOC
 19	.	O
 
-0	San	B-LOC
-1	Bernardino	O
-2	sign	O
-3	poll	O
+0	Riverside	B-LOC
+1	sign	O
+2	poll	O
+3	.	O
 
-0	Houston	B-LOC
+0	Miami	B-LOC
 1	sign	O
 2	poll	O
 3	.	O
@@ -602,7 +599,7 @@
 1	are	O
 2	vietnam	B-LOC
 3	and	O
-4	Philippines	B-LOC
+4	Turkey	B-LOC
 5	alike	O
 6	?	O
 
@@ -611,8 +608,8 @@
 2	24	O
 3	hrs	O
 4	in	O
-5	Baton	B-LOC
-6	Rouge	I-LOC
+5	Boise	B-LOC
+6	City	I-LOC
 7	-	O
 8	what	O
 9	are	O
@@ -632,7 +629,7 @@
 2	24	O
 3	hrs	O
 4	in	O
-5	Irvine	B-LOC
+5	Arlington	B-LOC
 6	-	I-LOC
 7	what	O
 8	are	O
@@ -655,30 +652,8 @@
 5	-	O
 6	over	O
 7	in	O
-8	Tampa	B-LOC
-9	and	I-LOC
-10	my	O
-11	wife	O
-12	want	O
-13	to	O
-14	see	O
-15	some	O
-16	of	O
-17	the	O
-18	key	O
-19	sites	O
-20	.	O
-
-0	I	O
-1	have	O
-2	a	O
-3	day	O
-4	stop	O
-5	-	O
-6	over	O
-7	in	O
-8	Louisville/Jefferson	B-LOC
-9	County	I-LOC
+8	Santa	B-LOC
+9	Ana	I-LOC
 10	and	O
 11	my	O
 12	wife	O
@@ -692,15 +667,27 @@
 20	sites	O
 21	.	O
 
-0	Cheap	O
-1	restraunts	O
-2	close	O
-3	to	O
-4	Orchestra	B-LOC
-5	Hall	I-LOC
-6	in	O
-7	Greensboro	B-LOC
-8	?	O
+0	I	O
+1	have	O
+2	a	O
+3	day	O
+4	stop	O
+5	-	O
+6	over	O
+7	in	O
+8	Glendale	B-LOC
+9	and	I-LOC
+10	my	O
+11	wife	O
+12	want	O
+13	to	O
+14	see	O
+15	some	O
+16	of	O
+17	the	O
+18	key	O
+19	sites	O
+20	.	O
 
 0	Cheap	O
 1	restraunts	O
@@ -709,8 +696,18 @@
 4	Orchestra	B-LOC
 5	Hall	I-LOC
 6	in	O
-7	Oakland	B-LOC
-8	?	O
+7	Colorado	B-LOC
+8	Springs	O
+
+0	Cheap	O
+1	restraunts	O
+2	close	O
+3	to	O
+4	Orchestra	B-LOC
+5	Hall	I-LOC
+6	in	O
+7	St.	B-LOC
+8	Louis	O
 
 0	If	O
 1	you	O
@@ -721,7 +718,7 @@
 6	and	O
 7	venture	O
 8	into	O
-9	Iran	B-LOC
+9	Tanzania	B-LOC
 10	then	O
 11	u	O
 12	need	O
@@ -737,7 +734,7 @@
 6	and	O
 7	venture	O
 8	into	O
-9	Vietnam	B-LOC
+9	Myanmar	B-LOC
 10	then	O
 11	u	O
 12	need	O
@@ -746,17 +743,17 @@
 
 0	Going	O
 1	to	O
-2	Malaysia	B-LOC
-3	and	O
-4	i	O
-5	can	O
-6	not	O
-7	wait	O
-8	?	O
+2	South	B-LOC
+3	Africa	O
+4	and	O
+5	i	O
+6	can	O
+7	not	O
+8	wait	O
 
 0	Going	O
 1	to	O
-2	Algeria	B-LOC
+2	Iraq	B-LOC
 3	and	O
 4	i	O
 5	can	O
@@ -776,7 +773,7 @@
 9	be	O
 10	going	O
 11	to	O
-12	Korea	B-LOC
+12	Germany	B-LOC
 13	before	O
 14	heading	O
 15	back	O
@@ -797,7 +794,7 @@
 9	be	O
 10	going	O
 11	to	O
-12	Thailand	B-LOC
+12	Pakistan	B-LOC
 13	before	O
 14	heading	O
 15	back	O
@@ -810,16 +807,16 @@
 1	am	O
 2	staying	O
 3	in	O
-4	Kenya	B-LOC
-5	for	O
-6	four	O
-7	nights	O
+4	South	B-LOC
+5	Africa	O
+6	for	O
+7	four	O
 
 0	I	O
 1	am	O
 2	staying	O
 3	in	O
-4	Canada	B-LOC
+4	Mexico	B-LOC
 5	for	O
 6	four	O
 7	nights	O
@@ -829,7 +826,7 @@
 2	what	O
 3	islad	O
 4	of	O
-5	Colombia	B-LOC
+5	India	B-LOC
 6	is	O
 7	a	O
 8	good	O
@@ -844,7 +841,7 @@
 17	main	O
 18	airpart	O
 19	in	O
-20	Colombia	B-LOC
+20	India	B-LOC
 21	.	O
 
 0	1	O
@@ -852,7 +849,7 @@
 2	what	O
 3	islad	O
 4	of	O
-5	Venezuela	B-LOC
+5	China	B-LOC
 6	is	O
 7	a	O
 8	good	O
@@ -867,7 +864,7 @@
 17	main	O
 18	airpart	O
 19	in	O
-20	Venezuela	B-LOC
+20	China	B-LOC
 21	.	O
 
 0	Do	O
@@ -877,7 +874,7 @@
 4	knuckle	O
 5	box	O
 6	in	O
-7	Myanmar	B-LOC
+7	Colombia	B-LOC
 8	?	O
 
 0	Do	O
@@ -887,7 +884,7 @@
 4	knuckle	O
 5	box	O
 6	in	O
-7	Yemen	B-LOC
+7	Poland	B-LOC
 8	?	O
 
 0	What	O
@@ -897,7 +894,7 @@
 4	National	O
 5	Park	O
 6	to	O
-7	Sacramento	B-LOC
+7	Memphis	B-LOC
 8	,	O
 9	UK	B-LOC
 10	?	O
@@ -909,7 +906,7 @@
 4	National	O
 5	Park	O
 6	to	O
-7	Tulsa	B-LOC
+7	Henderson	B-LOC
 8	,	O
 9	UK	B-LOC
 10	?	O
@@ -925,7 +922,7 @@
 8	there	O
 9	own	O
 10	to	O
-11	Algeria	B-LOC
+11	Venezuela	B-LOC
 12	and	O
 13	where	O
 14	about	O
@@ -945,7 +942,7 @@
 8	there	O
 9	own	O
 10	to	O
-11	Brazil	B-LOC
+11	Afghanistan	B-LOC
 12	and	O
 13	where	O
 14	about	O
@@ -957,14 +954,14 @@
 0	Are	O
 1	you	O
 2	enjoying	O
-3	Jersey	B-LOC
-4	City	O
+3	El	B-LOC
+4	Paso	O
 
 0	Are	O
 1	you	O
 2	enjoying	O
-3	Boise	B-LOC
-4	City	O
+3	Bakersfield	B-LOC
+4	?	O
 
 0	PS	O
 1	--	O
@@ -977,7 +974,7 @@
 8	at	O
 9	Scudeiros	B-LOC
 10	on	O
-11	Chandler	O
+11	Pittsburgh	O
 12	Street	O
 13	(	O
 14	just	O
@@ -1003,8 +1000,8 @@
 8	at	O
 9	Scudeiros	B-LOC
 10	on	O
-11	St.	O
-12	Louis	O
+11	Louisville/Jefferson	O
+12	County	O
 13	Street	O
 14	(	O
 15	just	O
@@ -1035,7 +1032,7 @@
 14	Place	O
 15	Ste	O
 16	500	O
-17	Minneapolis	B-LOC
+17	Plano	B-LOC
 18	,	O
 19	MD	B-LOC
 20	21202	O
@@ -1063,16 +1060,16 @@
 14	Place	O
 15	Ste	O
 16	500	O
-17	Kansas	B-LOC
-18	City	O
-19	,	B-LOC
-20	MD	O
-21	21202	O
-22	Phone	O
-23	410-468-3798	O
-24	Fax	O
-25	410-468-3499	O
-26	Email	O
+17	Dallas	B-LOC
+18	,	O
+19	MD	B-LOC
+20	21202	O
+21	Phone	O
+22	410-468-3798	O
+23	Fax	O
+24	410-468-3499	O
+25	Email	O
+26	vangie.mcgilloway@powersrc.com	O
 
 0	The	O
 1	only	O
@@ -1089,8 +1086,8 @@
 12	/	O
 13	City	O
 14	of	O
-15	Las	B-LOC
-16	Vegas	O
+15	Reno	B-LOC
+16	.	O
 
 0	The	O
 1	only	O
@@ -1107,7 +1104,7 @@
 12	/	O
 13	City	O
 14	of	O
-15	Hialeah	B-LOC
+15	Stockton	B-LOC
 16	.	O
 
 0	If	O
@@ -1123,15 +1120,15 @@
 10	,	O
 11	Omaha	B-LOC
 12	,	O
-13	New	B-LOC
-14	York	I-LOC
+13	San	B-LOC
+14	Diego	I-LOC
 15	,	O
 16	Portland	B-LOC
 17	(	O
 18	ENA	O
 19	)	O
 20	or	O
-21	Richmond	B-LOC
+21	Houston	B-LOC
 22	,	O
 23	you	O
 24	can	O
@@ -1156,27 +1153,28 @@
 10	,	O
 11	Omaha	B-LOC
 12	,	O
-13	Garland	B-LOC
-14	,	I-LOC
-15	Portland	O
-16	(	B-LOC
-17	ENA	O
-18	)	O
-19	or	O
-20	Houston	O
-21	,	B-LOC
-22	you	O
-23	can	O
-24	access	O
-25	the	O
-26	live	O
-27	event	O
-28	at	O
-29	http://home.enron.com/employeemeeting	O
-30	.	O
+13	New	B-LOC
+14	York	I-LOC
+15	,	O
+16	Portland	B-LOC
+17	(	O
+18	ENA	O
+19	)	O
+20	or	O
+21	San	B-LOC
+22	Bernardino	O
+23	,	O
+24	you	O
+25	can	O
+26	access	O
+27	the	O
+28	live	O
+29	event	O
+30	at	O
+31	http://home.enron.com/employeemeeting	O
 
 0	In	O
-1	Iran	B-LOC
+1	Germany	B-LOC
 2	national	O
 3	chart	O
 4	besides	O
@@ -1212,7 +1210,7 @@
 34	.	O
 
 0	In	O
-1	Nigeria	B-LOC
+1	Peru	B-LOC
 2	national	O
 3	chart	O
 4	besides	O
@@ -1256,7 +1254,7 @@
 6	rail	O
 7	accident	O
 8	in	O
-9	Angola	B-LOC
+9	Japan	B-LOC
 10	involving	O
 11	three	O
 12	trains	O
@@ -1277,7 +1275,7 @@
 6	rail	O
 7	accident	O
 8	in	O
-9	Malaysia	B-LOC
+9	Indonesia	B-LOC
 10	involving	O
 11	three	O
 12	trains	O
@@ -1292,7 +1290,7 @@
 0	Upon	O
 1	return	O
 2	to	O
-3	Anaheim	B-LOC
+3	Chicago	B-LOC
 4	after	I-LOC
 5	the	O
 6	Hurricane	O
@@ -1329,39 +1327,40 @@
 0	Upon	O
 1	return	O
 2	to	O
-3	Chesapeake	B-LOC
-4	after	I-LOC
-5	the	O
-6	Hurricane	O
-7	Katrina	O
-8	evacuation	O
-9	,	O
-10	former	O
-11	residents	O
-12	have	O
-13	been	O
-14	informed	O
-15	that	O
-16	there	O
-17	are	O
-18	no	O
-19	available	O
-20	public	O
-21	housing	O
-22	units	O
-23	at	O
-24	River	O
-25	Garden	B-LOC
-26	because	I-LOC
-27	those	O
-28	units	O
-29	have	O
-30	been	O
-31	reserved	O
-32	for	O
-33	HANO	O
-34	employees	B-ORG
-35	.	O
+3	Kansas	B-LOC
+4	City	I-LOC
+5	after	O
+6	the	O
+7	Hurricane	O
+8	Katrina	O
+9	evacuation	O
+10	,	O
+11	former	O
+12	residents	O
+13	have	O
+14	been	O
+15	informed	O
+16	that	O
+17	there	O
+18	are	O
+19	no	O
+20	available	O
+21	public	O
+22	housing	O
+23	units	O
+24	at	O
+25	River	B-LOC
+26	Garden	I-LOC
+27	because	O
+28	those	O
+29	units	O
+30	have	O
+31	been	O
+32	reserved	O
+33	for	O
+34	HANO	B-ORG
+35	employees	O
+36	.	O
 
 0	"	O
 1	In	O
@@ -1374,27 +1373,8 @@
 8	affordable	O
 9	housing	O
 10	in	O
-11	Irvine	B-LOC
-12	is	I-LOC
-13	more	O
-14	scarce	O
-15	than	O
-16	ever	O
-17	.	O
-
-0	"	O
-1	In	O
-2	the	O
-3	wake	O
-4	of	O
-5	Hurricane	O
-6	Katrina	O
-7	,	O
-8	affordable	O
-9	housing	O
-10	in	O
-11	Fort	B-LOC
-12	Worth	I-LOC
+11	St.	B-LOC
+12	Louis	I-LOC
 13	is	O
 14	more	O
 15	scarce	O
@@ -1402,29 +1382,48 @@
 17	ever	O
 18	.	O
 
-0	Needs	O
-1	good	O
-2	family	O
-3	in	O
-4	San	B-LOC
-5	Antonio	O
-6	or	O
-7	surronding	O
-8	area	O
-9	,	O
-10	needs	O
-11	lots	O
-12	of	O
-13	attention	O
-14	,	O
-15	very	O
-16	loving	O
+0	"	O
+1	In	O
+2	the	O
+3	wake	O
+4	of	O
+5	Hurricane	O
+6	Katrina	O
+7	,	O
+8	affordable	O
+9	housing	O
+10	in	O
+11	Lexington-Fayette	B-LOC
+12	is	I-LOC
+13	more	O
+14	scarce	O
+15	than	O
+16	ever	O
+17	.	O
 
 0	Needs	O
 1	good	O
 2	family	O
 3	in	O
-4	Mesa	B-LOC
+4	Fremont	B-LOC
+5	or	O
+6	surronding	O
+7	area	O
+8	,	O
+9	needs	O
+10	lots	O
+11	of	O
+12	attention	O
+13	,	O
+14	very	O
+15	loving	O
+16	.	O
+
+0	Needs	O
+1	good	O
+2	family	O
+3	in	O
+4	Phoenix	B-LOC
 5	or	O
 6	surronding	O
 7	area	O
@@ -1441,9 +1440,9 @@
 0	Some	O
 1	countries	O
 2	like	O
-3	Kenya	B-LOC
+3	Malaysia	B-LOC
 4	and	O
-5	Singapore	B-LOC
+5	Morocco	B-LOC
 6	promote	O
 7	trading	O
 8	for	O
@@ -1460,7 +1459,7 @@
 0	Some	O
 1	countries	O
 2	like	O
-3	Iraq	B-LOC
+3	Ukraine	B-LOC
 4	and	O
 5	Singapore	B-LOC
 6	promote	O
@@ -1490,7 +1489,7 @@
 11	thrown	O
 12	out	O
 13	of	O
-14	Korea	O
+14	Pakistan	O
 15	for	O
 16	similar	O
 17	crimes	O
@@ -1513,14 +1512,14 @@
 11	thrown	O
 12	out	O
 13	of	O
-14	China	O
-15	for	O
-16	similar	O
-17	crimes	O
-18	,	O
-19	as	O
-20	well	O
-21	.	O
+14	Saudi	O
+15	Arabia	O
+16	for	O
+17	similar	O
+18	crimes	O
+19	,	O
+20	as	O
+21	well	O
 
 0	Normally	O
 1	this	O
@@ -1548,28 +1547,28 @@
 23	has	O
 24	demanded	O
 25	that	O
-26	United	B-LOC
-27	States	O
-28	leave	O
-29	all	O
-30	the	O
-31	land	O
-32	that	O
-33	it	O
-34	occupies	O
-35	before	O
-36	the	O
-37	1967	O
-38	border	O
-39	(	O
-40	which	O
-41	includes	B-LOC
-42	East	I-LOC
-43	Jerusalem	O
-44	by	O
-45	the	O
-46	way	O
-47	)	O
+26	Afghanistan	B-LOC
+27	leave	O
+28	all	O
+29	the	O
+30	land	O
+31	that	O
+32	it	O
+33	occupies	O
+34	before	O
+35	the	O
+36	1967	O
+37	border	O
+38	(	O
+39	which	O
+40	includes	O
+41	East	B-LOC
+42	Jerusalem	I-LOC
+43	by	O
+44	the	O
+45	way	O
+46	)	O
+47	.	O
 
 0	Normally	O
 1	this	O
@@ -1597,7 +1596,7 @@
 23	has	O
 24	demanded	O
 25	that	O
-26	Iraq	B-LOC
+26	Brazil	B-LOC
 27	leave	O
 28	all	O
 29	the	O
@@ -1636,8 +1635,8 @@
 13	peace	O
 14	partner	O
 15	with	O
-16	South	B-LOC
-17	Africa	O
+16	Peru	B-LOC
+17	.	O
 
 0	It	O
 1	seems	O
@@ -1655,7 +1654,7 @@
 13	peace	O
 14	partner	O
 15	with	O
-16	Canada	B-LOC
+16	France	B-LOC
 17	.	O
 
 0	He	O
@@ -1664,7 +1663,7 @@
 3	demanding	O
 4	claims	O
 5	that	O
-6	France	B-LOC
+6	Iran	B-LOC
 7	said	O
 8	no	O
 9	to	O
@@ -1685,7 +1684,7 @@
 3	demanding	O
 4	claims	O
 5	that	O
-6	Mozambique	B-LOC
+6	Venezuela	B-LOC
 7	said	O
 8	no	O
 9	to	O
@@ -1727,7 +1726,7 @@
 24	the	O
 25	struggle	O
 26	against	O
-27	Pakistan	B-LOC
+27	Angola	B-LOC
 28	's	O
 29	partially	O
 30	completed	O
@@ -1763,7 +1762,7 @@
 24	the	O
 25	struggle	O
 26	against	O
-27	Ghana	B-LOC
+27	Brazil	B-LOC
 28	's	O
 29	partially	O
 30	completed	O
@@ -1779,24 +1778,24 @@
 4	West	B-LOC
 5	Bank	I-LOC
 6	and	O
-7	United	B-LOC
-8	Kingdom	O
-9	,	O
-10	I	O
-11	can	O
-12	say	O
-13	that	O
-14	this	O
-15	new	O
-16	political	O
-17	voice	O
-18	is	O
-19	threatening	O
-20	to	O
-21	collapse	O
-22	the	O
-23	peace	O
-24	process	O
+7	Indonesia	B-LOC
+8	,	O
+9	I	O
+10	can	O
+11	say	O
+12	that	O
+13	this	O
+14	new	O
+15	political	O
+16	voice	O
+17	is	O
+18	threatening	O
+19	to	O
+20	collapse	O
+21	the	O
+22	peace	O
+23	process	O
+24	.	O
 
 0	Having	O
 1	personally	O
@@ -1805,7 +1804,7 @@
 4	West	B-LOC
 5	Bank	I-LOC
 6	and	O
-7	Angola	B-LOC
+7	Poland	B-LOC
 8	,	O
 9	I	O
 10	can	O
@@ -1837,7 +1836,7 @@
 10	rocket	O
 11	attacks	O
 12	on	O
-13	Ghana	B-LOC
+13	Ukraine	B-LOC
 14	from	O
 15	the	O
 16	Gaza	B-LOC
@@ -1863,7 +1862,7 @@
 10	rocket	O
 11	attacks	O
 12	on	O
-13	Canada	B-LOC
+13	Myanmar	B-LOC
 14	from	O
 15	the	O
 16	Gaza	B-LOC
@@ -1884,7 +1883,7 @@
 5	been	O
 6	fired	O
 7	at	O
-8	Madagascar	B-LOC
+8	Thailand	B-LOC
 9	,	O
 10	weeks	O
 11	after	O
@@ -1904,7 +1903,7 @@
 5	been	O
 6	fired	O
 7	at	O
-8	Tanzania	B-LOC
+8	Pakistan	B-LOC
 9	,	O
 10	weeks	O
 11	after	O
@@ -1922,7 +1921,7 @@
 3	the	O
 4	rockets	O
 5	,	O
-6	Tanzania	B-LOC
+6	Turkey	B-LOC
 7	resumed	O
 8	its	O
 9	policy	O
@@ -1941,7 +1940,7 @@
 3	the	O
 4	rockets	O
 5	,	O
-6	Vietnam	B-LOC
+6	Brazil	B-LOC
 7	resumed	O
 8	its	O
 9	policy	O
@@ -1965,7 +1964,7 @@
 8	cease	O
 9	fire	O
 10	after	O
-11	Ghana	B-LOC
+11	Pakistan	B-LOC
 12	killed	O
 13	it's	O
 14	former	O
@@ -1987,18 +1986,18 @@
 8	cease	O
 9	fire	O
 10	after	O
-11	Saudi	B-LOC
-12	Arabia	O
-13	killed	O
-14	it's	O
-15	former	O
-16	leader	O
-17	,	B-PER
-18	Muhammed	I-PER
-19	Sheikh	I-PER
-20	Khalil	O
+11	China	B-LOC
+12	killed	O
+13	it's	O
+14	former	O
+15	leader	O
+16	,	O
+17	Muhammed	B-PER
+18	Sheikh	I-PER
+19	Khalil	I-PER
+20	.	O
 
-0	Philippines	B-LOC
+0	Myanmar	B-LOC
 1	had	O
 2	a	O
 3	role	O
@@ -2025,7 +2024,7 @@
 24	Jihad	O
 25	.	O
 
-0	India	B-LOC
+0	Korea	B-LOC
 1	had	O
 2	a	O
 3	role	O
@@ -2064,7 +2063,7 @@
 9	groups	O
 10	but	O
 11	with	O
-12	Indonesia	B-LOC
+12	France	B-LOC
 13	's	O
 14	scheme	O
 15	to	O
@@ -2091,7 +2090,7 @@
 9	groups	O
 10	but	O
 11	with	O
-12	Italy	B-LOC
+12	Canada	B-LOC
 13	's	O
 14	scheme	O
 15	to	O
@@ -2111,7 +2110,7 @@
 2	remains	O
 3	targeted	O
 4	by	O
-5	China	B-LOC
+5	Iraq	B-LOC
 6	,	O
 7	as	O
 8	in	O
@@ -2158,7 +2157,7 @@
 23	its	O
 24	aggression	O
 
-0	France	B-LOC
+0	China	B-LOC
 1	wants	O
 2	to	O
 3	drive	O
@@ -2170,7 +2169,7 @@
 9	.	O
 10	"	O
 
-0	Kenya	B-LOC
+0	India	B-LOC
 1	wants	O
 2	to	O
 3	drive	O
@@ -2200,7 +2199,7 @@
 15	by	O
 16	the	O
 17	time	O
-18	Egypt	B-LOC
+18	France	B-LOC
 19	is	O
 20	done	O
 21	reminding	O
@@ -2294,7 +2293,7 @@
 7	its	O
 8	243,000	O
 9	bpd	O
-10	Tampa	B-LOC
+10	Fresno	B-LOC
 11	refinery	I-LOC
 12	and	O
 13	its	O
@@ -2314,14 +2313,35 @@
 7	its	O
 8	243,000	O
 9	bpd	O
-10	Tucson	B-LOC
-11	refinery	I-LOC
-12	and	O
-13	its	O
-14	85,000	O
-15	bpd	O
-16	Houston	O
-17	refinery	B-LOC
+10	Texas	B-LOC
+11	City	I-LOC
+12	refinery	O
+13	and	O
+14	its	O
+15	85,000	O
+16	bpd	O
+17	Oakland	B-LOC
+18	refinery	O
+19	.	O
+
+0	Surprisingly	O
+1	,	O
+2	this	O
+3	little	O
+4	strip	O
+5	mall	O
+6	restaurant	O
+7	has	O
+8	the	O
+9	best	O
+10	sushi	O
+11	I	O
+12	've	O
+13	found	O
+14	in	O
+15	the	O
+16	Washington	B-LOC
+17	area	O
 18	.	O
 
 0	Surprisingly	O
@@ -2340,29 +2360,9 @@
 13	found	O
 14	in	O
 15	the	O
-16	San	B-LOC
-17	Bernardino	O
-18	area	O
-
-0	Surprisingly	O
-1	,	O
-2	this	O
-3	little	O
-4	strip	O
-5	mall	O
-6	restaurant	O
-7	has	O
-8	the	O
-9	best	O
-10	sushi	O
-11	I	O
-12	've	O
-13	found	O
-14	in	O
-15	the	O
-16	Fort	B-LOC
-17	Wayne	O
-18	area	O
+16	Miami	B-LOC
+17	area	O
+18	.	O
 
 0	Hancock	B-ORG
 1	s	I-ORG
@@ -2373,7 +2373,7 @@
 6	fabric	O
 7	stores	O
 8	in	O
-9	Laredo	B-LOC
+9	Philadelphia	B-LOC
 10	.	I-LOC
 
 0	Hancock	B-ORG
@@ -2385,27 +2385,27 @@
 6	fabric	O
 7	stores	O
 8	in	O
-9	Fremont	B-LOC
+9	Phoenix	B-LOC
 10	.	I-LOC
 
 0	Best	O
 1	meat	O
 2	pies	O
 3	in	O
-4	South	B-LOC
+4	Uzbekistan	B-LOC
 
 0	Best	O
 1	meat	O
 2	pies	O
 3	in	O
-4	Morocco	B-LOC
+4	Russian	B-LOC
 
 0	My	O
 1	favorite	O
 2	so	O
 3	far	O
 4	in	O
-5	Henderson	B-LOC
+5	Aurora	B-LOC
 6	.	O
 
 0	My	O
@@ -2413,8 +2413,8 @@
 2	so	O
 3	far	O
 4	in	O
-5	Washington	B-LOC
-6	.	O
+5	St.	B-LOC
+6	Louis	O
 
 0	If	O
 1	you	O
@@ -2423,7 +2423,7 @@
 4	made	O
 5	glass	O
 6	from	O
-7	Myanmar	B-LOC
+7	Morocco	B-LOC
 8	and	O
 9	China	B-LOC
 10	,	O
@@ -2443,7 +2443,7 @@
 6	from	O
 7	India	B-LOC
 8	and	O
-9	Nigeria	B-LOC
+9	Italy	B-LOC
 10	,	O
 11	this	O
 12	is	O
@@ -2456,53 +2456,53 @@
 1	best	O
 2	photographer	O
 3	in	O
-4	Los	B-LOC
+4	Long	B-LOC
 
 0	The	O
 1	best	O
 2	photographer	O
 3	in	O
-4	Sacramento	B-LOC
+4	Scottsdale	B-LOC
 
 0	Best	O
 1	in	O
-2	Plano	B-LOC
+2	Lubbock	B-LOC
 
 0	Best	O
 1	in	O
-2	Tampa	B-LOC
+2	Louisville/Jefferson	B-LOC
 
 0	Absolutely	O
 1	my	O
 2	favorite	O
 3	store	O
 4	in	O
-5	New	B-LOC
-6	York	O
-7	,	B-LOC
+5	Hialeah	B-LOC
+6	,	O
+7	KS	B-LOC
 
 0	Absolutely	O
 1	my	O
 2	favorite	O
 3	store	O
 4	in	O
-5	Baton	B-LOC
-6	Rouge	O
-7	,	B-LOC
+5	Lubbock	B-LOC
+6	,	O
+7	KS	B-LOC
 
-0	Jacksonville	B-LOC
+0	Honolulu	B-LOC
 1	's	O
 2	best	O
 3	tutoring	O
 4	service	O
 5	!	O
 
-0	New	B-LOC
-1	Orleans	O
-2	's	O
-3	best	O
-4	tutoring	O
-5	service	O
+0	North	B-LOC
+1	Las	O
+2	Vegas	O
+3	's	O
+4	best	O
+5	tutoring	O
 
 0	HAS	O
 1	MOVED	O
@@ -2510,8 +2510,8 @@
 3	4783	O
 4	Bay	O
 5	Rd	O
-6	San	B-LOC
-7	Diego	O
+6	Oklahoma	B-LOC
+7	City	O
 8	,	B-LOC
 9	Michigan	O
 10	48604	O
@@ -2525,7 +2525,7 @@
 3	4783	O
 4	Bay	O
 5	Rd	O
-6	Philadelphia	B-LOC
+6	Portland	B-LOC
 7	,	O
 8	Michigan	B-LOC
 9	48604	O
@@ -2540,22 +2540,7 @@
 3	to	O
 4	drive	O
 5	to	O
-6	San	B-LOC
-7	Bernardino	I-LOC
-8	for	O
-9	a	O
-10	great	O
-11	mani	O
-12	pedi	O
-13	.	O
-
-0	No	O
-1	more	O
-2	having	O
-3	to	O
-4	drive	O
-5	to	O
-6	Atlanta	B-LOC
+6	Denver	B-LOC
 7	for	I-LOC
 8	a	O
 9	great	O
@@ -2563,8 +2548,23 @@
 11	pedi	O
 12	.	O
 
+0	No	O
+1	more	O
+2	having	O
+3	to	O
+4	drive	O
+5	to	O
+6	St.	B-LOC
+7	Petersburg	I-LOC
+8	for	O
+9	a	O
+10	great	O
+11	mani	O
+12	pedi	O
+13	.	O
+
 0	Now	O
-1	Italy	B-LOC
+1	Canada	B-LOC
 2	wants	O
 3	to	O
 4	turn	O
@@ -2585,7 +2585,7 @@
 19	.	O
 
 0	Now	O
-1	Vietnam	B-LOC
+1	Angola	B-LOC
 2	wants	O
 3	to	O
 4	turn	O
@@ -2627,7 +2627,7 @@
 19	to	O
 20	occur	O
 21	in	O
-22	China	B-LOC
+22	Japan	B-LOC
 23	(	O
 24	considering	O
 25	that	O
@@ -2671,27 +2671,27 @@
 19	to	O
 20	occur	O
 21	in	O
-22	Russian	B-LOC
-23	Federation	O
-24	(	O
-25	considering	O
-26	that	O
-27	the	O
-28	country	O
-29	has	O
-30	been	O
-31	experiencing	O
-32	some	O
-33	form	O
-34	of	O
-35	conflict	O
-36	for	O
-37	approximately	O
-38	the	O
-39	last	O
-40	32	O
-41	years	O
-42	)	O
+22	Ukraine	B-LOC
+23	(	O
+24	considering	O
+25	that	O
+26	the	O
+27	country	O
+28	has	O
+29	been	O
+30	experiencing	O
+31	some	O
+32	form	O
+33	of	O
+34	conflict	O
+35	for	O
+36	approximately	O
+37	the	O
+38	last	O
+39	32	O
+40	years	O
+41	)	O
+42	.	O
 
 0	This	O
 1	is	O
@@ -2733,8 +2733,8 @@
 37	rained	O
 38	down	O
 39	on	O
-40	United	B-LOC
-41	States	O
+40	Poland	B-LOC
+41	.	O
 
 0	This	O
 1	is	O
@@ -2776,7 +2776,7 @@
 37	rained	O
 38	down	O
 39	on	O
-40	Uzbekistan	B-LOC
+40	Nepal	B-LOC
 41	.	O
 
 0	"	O
@@ -2822,7 +2822,7 @@
 40	federal	O
 41	court	O
 42	in	O
-43	Buffalo	B-LOC
+43	Boston	B-LOC
 44	.	O
 
 0	"	O
@@ -2868,7 +2868,7 @@
 40	federal	O
 41	court	O
 42	in	O
-43	Philadelphia	B-LOC
+43	Glendale	B-LOC
 44	.	O
 
 0	Chahine	B-PER
@@ -2887,7 +2887,7 @@
 13	via	O
 14	Syria	B-LOC
 15	and	O
-16	Canada	B-LOC
+16	Ghana	B-LOC
 17	.	O
 
 0	Chahine	B-PER
@@ -2902,32 +2902,12 @@
 9	to	O
 10	return	O
 11	to	O
-12	Detroit	B-LOC
+12	Riverside	B-LOC
 13	via	O
 14	Syria	B-LOC
 15	and	O
-16	Korea	B-LOC
+16	Jordan	B-LOC
 17	.	O
-
-0	President	O
-1	Bush	B-PER
-2	on	O
-3	Tuesday	O
-4	nominated	O
-5	two	O
-6	individuals	O
-7	to	O
-8	replace	O
-9	retiring	O
-10	jurists	O
-11	on	O
-12	federal	O
-13	courts	O
-14	in	O
-15	the	O
-16	Garland	B-LOC
-17	area	O
-18	.	O
 
 0	President	O
 1	Bush	B-PER
@@ -2949,6 +2929,26 @@
 17	area	O
 18	.	O
 
+0	President	O
+1	Bush	B-PER
+2	on	O
+3	Tuesday	O
+4	nominated	O
+5	two	O
+6	individuals	O
+7	to	O
+8	replace	O
+9	retiring	O
+10	jurists	O
+11	on	O
+12	federal	O
+13	courts	O
+14	in	O
+15	the	O
+16	Miami	B-LOC
+17	area	O
+18	.	O
+
 0	It	O
 1	's	O
 2	on	O
@@ -2965,7 +2965,7 @@
 13	Joe	B-PER
 14	O'Neill	I-PER
 15	in	O
-16	Arlington	B-LOC
+16	Orlando	B-LOC
 17	,	O
 18	Texas	B-LOC
 19	.	O
@@ -2986,7 +2986,7 @@
 13	Joe	B-PER
 14	O'Neill	I-PER
 15	in	O
-16	Fremont	B-LOC
+16	Glendale	B-LOC
 17	,	O
 18	Texas	B-LOC
 19	.	O
@@ -2997,7 +2997,7 @@
 3	wants	O
 4	them	O
 5	,	O
-6	Ukraine	B-LOC
+6	Tanzania	B-LOC
 7	wants	O
 8	them	O
 9	,	O
@@ -3029,31 +3029,31 @@
 3	wants	O
 4	them	O
 5	,	O
-6	Indonesia	B-LOC
-7	wants	O
-8	them	O
-9	,	O
-10	Russia	B-LOC
-11	wants	O
-12	the	O
-13	better	O
-14	ones	O
-15	,	O
-16	and	O
-17	all	O
-18	the	O
-19	US	B-LOC
-20	wants	O
-21	is	O
-22	to	O
-23	give	O
-24	them	O
-25	all	O
-26	a	O
-27	piece	O
-28	of	O
-29	coal	O
-30	.	O
+6	South	B-LOC
+7	Africa	O
+8	wants	O
+9	them	O
+10	,	B-LOC
+11	Russia	O
+12	wants	O
+13	the	O
+14	better	O
+15	ones	O
+16	,	O
+17	and	O
+18	all	O
+19	the	B-LOC
+20	US	O
+21	wants	O
+22	is	O
+23	to	O
+24	give	O
+25	them	O
+26	all	O
+27	a	O
+28	piece	O
+29	of	O
+30	coal	O
 
 0	For	O
 1	the	O
@@ -3065,7 +3065,7 @@
 7	been	O
 8	tensions	O
 9	with	O
-10	Vietnam	B-LOC
+10	China	B-LOC
 11	’s	O
 12	nuclear	O
 13	program	O
@@ -3106,7 +3106,7 @@
 7	been	O
 8	tensions	O
 9	with	O
-10	Japan	B-LOC
+10	Ghana	B-LOC
 11	’s	O
 12	nuclear	O
 13	program	O
@@ -3166,7 +3166,7 @@
 6	AQ	B-PER
 7	Kahn	I-PER
 8	and	O
-9	Peru	B-LOC
+9	Angola	B-LOC
 10	make	O
 11	up	O
 12	the	O
@@ -3187,7 +3187,7 @@
 7	weapons	O
 8	program	O
 9	of	O
-10	Poland	B-LOC
+10	Vietnam	B-LOC
 11	,	O
 12	yet	O
 13	Israel	O
@@ -3224,10 +3224,10 @@
 7	weapons	O
 8	program	O
 9	of	O
-10	Iran	B-LOC
+10	France	B-LOC
 11	,	O
 12	yet	O
-13	Pakistan	O
+13	Israel	O
 14	,	O
 15	which	O
 16	to	O
@@ -3255,32 +3255,32 @@
 1	is	O
 2	estimated	O
 3	that	O
-4	United	O
-5	States	O
-6	has	O
-7	over	O
-8	200	O
-9	nuclear	O
-10	weapons	O
-11	yet	O
-12	neither	O
-13	the	B-LOC
-14	US	O
-15	nor	O
-16	any	O
-17	of	O
-18	her	O
-19	allies	O
-20	expresses	O
-21	the	O
-22	slightest	O
-23	concern	O
+4	Pakistan	O
+5	has	O
+6	over	O
+7	200	O
+8	nuclear	O
+9	weapons	O
+10	yet	O
+11	neither	O
+12	the	O
+13	US	B-LOC
+14	nor	O
+15	any	O
+16	of	O
+17	her	O
+18	allies	O
+19	expresses	O
+20	the	O
+21	slightest	O
+22	concern	O
+23	.	O
 
 0	It	O
 1	is	O
 2	estimated	O
 3	that	O
-4	Poland	O
+4	Myanmar	O
 5	has	O
 6	over	O
 7	200	O
@@ -3304,7 +3304,7 @@
 0	The	O
 1	case	O
 2	against	O
-3	Peru	B-LOC
+3	Italy	B-LOC
 4	has	O
 5	a	O
 6	feeling	O
@@ -3316,7 +3316,7 @@
 0	The	O
 1	case	O
 2	against	O
-3	Mexico	B-LOC
+3	Iran	B-LOC
 4	has	O
 5	a	O
 6	feeling	O
@@ -3344,7 +3344,7 @@
 16	weapons	O
 17	stockpiles	O
 18	in	O
-19	Uzbekistan	B-LOC
+19	Vietnam	B-LOC
 20	.	O
 
 0	Arial	O
@@ -3366,14 +3366,14 @@
 16	weapons	O
 17	stockpiles	O
 18	in	O
-19	Colombia	B-LOC
+19	Tanzania	B-LOC
 20	.	O
 
 0	America	B-LOC
 1	cried	O
 2	wolf	O
 3	in	O
-4	Egypt	B-LOC
+4	Tanzania	B-LOC
 5	,	O
 6	and	O
 7	what	O
@@ -3397,7 +3397,7 @@
 1	cried	O
 2	wolf	O
 3	in	O
-4	Kenya	B-LOC
+4	Spain	B-LOC
 5	,	O
 6	and	O
 7	what	O
@@ -3444,9 +3444,9 @@
 24	coalition	O
 25	soldiers	O
 26	in	O
-27	United	B-LOC
-28	Kingdom	O
-29	.	O
+27	Ethiopia	B-LOC
+28	.	O
+29	"	O
 
 0	The	O
 1	Board	B-ORG
@@ -3494,24 +3494,24 @@
 12	American	O
 13	occupation	O
 14	of	O
-15	Spain	B-LOC
-16	,	O
-17	relate	O
-18	their	O
-19	case	O
-20	with	O
-21	that	O
-22	of	O
-23	the	O
-24	Palestinian	O
-25	people	O
-26	,	O
-27	under	O
-28	the	O
-29	Israeli	O
-30	occupation	O
-31	.	O
-32	"	O
+15	United	B-LOC
+16	States	O
+17	,	O
+18	relate	O
+19	their	O
+20	case	O
+21	with	O
+22	that	O
+23	of	O
+24	the	O
+25	Palestinian	O
+26	people	O
+27	,	O
+28	under	O
+29	the	O
+30	Israeli	O
+31	occupation	O
+32	.	O
 
 0	Xinhua	B-ORG
 1	alleged	O
@@ -3528,7 +3528,7 @@
 12	American	O
 13	occupation	O
 14	of	O
-15	Indonesia	B-LOC
+15	Ghana	B-LOC
 16	,	O
 17	relate	O
 18	their	O
@@ -3552,7 +3552,7 @@
 2	excluded	O
 3	State	O
 4	Department	O
-5	Kenya	B-LOC
+5	Sudan	B-LOC
 6	hands	O
 7	like	O
 8	Tom	B-PER
@@ -3564,7 +3564,7 @@
 2	excluded	O
 3	State	O
 4	Department	O
-5	Kenya	B-LOC
+5	Germany	B-LOC
 6	hands	O
 7	like	O
 8	Tom	B-PER
@@ -3608,7 +3608,7 @@
 34	sweetheart	O
 35	deal	O
 36	for	O
-37	Germany	B-LOC
+37	Angola	B-LOC
 38	,	O
 39	and	O
 40	maybe	O
@@ -3659,7 +3659,7 @@
 34	sweetheart	O
 35	deal	O
 36	for	O
-37	Philippines	B-LOC
+37	France	B-LOC
 38	,	O
 39	and	O
 40	maybe	O
@@ -3674,7 +3674,35 @@
 49	.	O
 
 0	The	O
-1	Minneapolis	B-ORG
+1	Washington	B-ORG
+2	Monthly	I-ORG
+3	's	O
+4	Who	O
+5	's	O
+6	Who	O
+7	of	O
+8	Neocons	O
+9	in	O
+10	Korea	B-LOC
+11	helps	O
+12	explain	O
+13	the	O
+14	extreme	O
+15	incompetence	O
+16	and	O
+17	possibly	O
+18	double	O
+19	-	O
+20	dealing	O
+21	of	O
+22	many	O
+23	in	O
+24	the	O
+25	CPA	B-ORG
+26	.	O
+
+0	The	O
+1	Gilbert	B-ORG
 2	Monthly	I-ORG
 3	's	O
 4	Who	O
@@ -3701,34 +3729,6 @@
 25	CPA	B-ORG
 26	.	O
 
-0	The	O
-1	Washington	B-ORG
-2	Monthly	I-ORG
-3	's	O
-4	Who	O
-5	's	O
-6	Who	O
-7	of	O
-8	Neocons	O
-9	in	O
-10	Argentina	B-LOC
-11	helps	O
-12	explain	O
-13	the	O
-14	extreme	O
-15	incompetence	O
-16	and	O
-17	possibly	O
-18	double	O
-19	-	O
-20	dealing	O
-21	of	O
-22	many	O
-23	in	O
-24	the	O
-25	CPA	B-ORG
-26	.	O
-
 0	Sept.	O
 1	11	O
 2	Commission	O
@@ -3767,7 +3767,7 @@
 35	to	O
 36	"	O
 37	protect	O
-38	Ukraine	B-LOC
+38	Angola	B-LOC
 39	,	O
 40	"	O
 41	according	O
@@ -3815,7 +3815,7 @@
 35	to	O
 36	"	O
 37	protect	O
-38	France	B-LOC
+38	Mozambique	B-LOC
 39	,	O
 40	"	O
 41	according	O
@@ -3855,8 +3855,8 @@
 27	arm	O
 28	"	O
 29	in	O
-30	Russian	B-LOC
-31	Federation	O
+30	Peru	B-LOC
+31	.	O
 
 0	'	O
 1	A	O
@@ -3888,7 +3888,7 @@
 27	arm	O
 28	"	O
 29	in	O
-30	Canada	B-LOC
+30	Afghanistan	B-LOC
 31	.	O
 
 0	"	O
@@ -3902,12 +3902,12 @@
 8	striking	O
 9	arm	O
 10	in	O
-11	Madagascar	B-LOC
+11	France	B-LOC
 12	because	O
 13	the	O
 14	fate	O
 15	of	O
-16	Madagascar	B-LOC
+16	France	B-LOC
 17	and	O
 18	Palestine	O
 19	is	O
@@ -3946,12 +3946,12 @@
 8	striking	O
 9	arm	O
 10	in	O
-11	Mexico	B-LOC
+11	Yemen	B-LOC
 12	because	O
 13	the	O
 14	fate	O
 15	of	O
-16	Mexico	B-LOC
+16	Yemen	B-LOC
 17	and	O
 18	Palestine	O
 19	is	O
@@ -3984,7 +3984,7 @@
 2	not	O
 3	even	O
 4	in	O
-5	Philippines	B-LOC
+5	Uganda	B-LOC
 6	and	O
 7	I	O
 8	could	O
@@ -4009,7 +4009,7 @@
 2	not	O
 3	even	O
 4	in	O
-5	India	B-LOC
+5	Uzbekistan	B-LOC
 6	and	O
 7	I	O
 8	could	O
@@ -4044,10 +4044,10 @@
 12	,	O
 13	both	O
 14	in	O
-15	Turkey	B-LOC
+15	Iraq	B-LOC
 16	and	O
 17	in	O
-18	Washington	B-LOC
+18	Tucson	B-LOC
 19	.	O
 
 0	Jim	B-PER
@@ -4065,11 +4065,11 @@
 12	,	O
 13	both	O
 14	in	O
-15	Saudi	B-LOC
-16	Arabia	O
-17	and	O
-18	in	B-LOC
-19	Washington	O
+15	Iraq	B-LOC
+16	and	O
+17	in	O
+18	San	B-LOC
+19	Bernardino	O
 
 0	"	O
 1	Arafat	B-PER
@@ -4082,25 +4082,25 @@
 8	to	O
 9	compromise	O
 10	with	O
-11	France	B-LOC
-12	and	O
-13	to	O
-14	imagine	O
-15	a	O
-16	two	O
-17	-	O
-18	state	O
-19	solution	O
-20	,	O
-21	even	O
-22	if	O
-23	the	O
-24	road	O
-25	of	O
-26	negotiations	O
-27	remained	O
-28	rocky	O
-29	.	O
+11	Russian	B-LOC
+12	Federation	O
+13	and	O
+14	to	O
+15	imagine	O
+16	a	O
+17	two	O
+18	-	O
+19	state	O
+20	solution	O
+21	,	O
+22	even	O
+23	if	O
+24	the	O
+25	road	O
+26	of	O
+27	negotiations	O
+28	remained	O
+29	rocky	O
 
 0	"	O
 1	Arafat	B-PER
@@ -4113,7 +4113,7 @@
 8	to	O
 9	compromise	O
 10	with	O
-11	Nepal	B-LOC
+11	Algeria	B-LOC
 12	and	O
 13	to	O
 14	imagine	O
@@ -4154,7 +4154,7 @@
 18	,	I-ORG
 19	Inc.	I-ORG
 20	of	O
-21	Madison	B-LOC
+21	Sacramento	B-LOC
 22	,	I-LOC
 23	California	O
 24	.	B-LOC
@@ -4180,9 +4180,8 @@
 18	,	I-ORG
 19	Inc.	I-ORG
 20	of	O
-21	San	B-LOC
-22	Antonio	I-LOC
-23	,	O
-24	California	B-LOC
-25	.	O
+21	Memphis	B-LOC
+22	,	I-LOC
+23	California	O
+24	.	B-LOC
 

@@ -12,4 +12,4 @@ Our steps included:
 
 ### Evaluation
 For getting the f1 score on dev data you can write the following console command: \
-`python3 span_f1.py data/en_ewt-ud-dev.iob2 data/bert_predictions_dev.iob2`
+`python3 span_f1.py data/bert_predictions_dev.iob2 data/en_ewt-ud-dev.iob2`
